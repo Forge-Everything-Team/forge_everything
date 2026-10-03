@@ -66,7 +66,7 @@ hash = "c32f9e85833c82d11e2c299423232f745416d5735afde8e9a62009bf4df54349"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "8b708df5f9fc5a9d41f2c53c586bdf257b83c4eabf9506efe660d64075e1bdec"
+hash = "1038f1983195aaa0817ecf143f792efb093f8020521e3967e1eb3ea9ef122d4d"
 
 [[files]]
 file = "config/crashutilities-server.toml"
