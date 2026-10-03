@@ -86,4 +86,4 @@ host — there isn't a tuning fix for 442 mods on 8 GB (yet).
 - Client-only mods (Sodium, Iris, minimaps, and so on) are excluded automatically
   by the `-s server` flag in the start script. Don't remove it.
 - The pack, its configs, and this server package all come from:
-  https://github.com/Rexilyent/forge-everything
+  https://github.com/Forge-Everything-Team/forge_everything

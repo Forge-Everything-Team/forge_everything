@@ -35,8 +35,8 @@ packwiz --version
 ### 2. Clone
 
 ```bash
-git clone https://github.com/Rexilyent/forge-everything.git
-cd forge-everything/packwiz
+git clone https://github.com/Forge-Everything-Team/forge_everything.git
+cd forge_everything/packwiz
 ```
 
 Every packwiz command runs from `packwiz/` — the directory with `pack.toml` in it. Running them from the repo root does nothing useful and will make you question your life choices for a solid ten minutes while you stare at an error; about not being able to find the file.

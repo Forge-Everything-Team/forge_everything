@@ -11,7 +11,7 @@
 set -euo pipefail
 
 JAVA="java"
-PACK_URL="https://raw.githubusercontent.com/Rexilyent/forge-everything/main/packwiz/pack.toml"
+PACK_URL="https://raw.githubusercontent.com/Forge-Everything-Team/forge_everything/main/packwiz/pack.toml"
 
 echo "Syncing modpack..."
 if ! "$JAVA" -jar packwiz-installer-bootstrap.jar -g -s server "$PACK_URL"; then

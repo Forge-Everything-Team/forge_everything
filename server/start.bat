@@ -10,7 +10,7 @@ REM  EDIT THIS: point at the same java.exe your run.bat uses.
 REM ============================================================
 set JAVA="C:\Program Files\Java\jdk-21\bin\java.exe"
 
-set PACK_URL=https://raw.githubusercontent.com/Rexilyent/forge-everything/main/packwiz/pack.toml
+set PACK_URL=https://raw.githubusercontent.com/Forge-Everything-Team/forge_everything/main/packwiz/pack.toml
 
 echo Syncing modpack...
 %JAVA% -jar packwiz-installer-bootstrap.jar -g -s server %PACK_URL%
