@@ -6,7 +6,6 @@ assets/*
 .cf-cache.json
 .cf-ratelimit.json
 /workspace
-/tools
 /Diag Output
 /reports
 
