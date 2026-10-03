@@ -1,0 +1,13 @@
+name = "Aether Addon: Protect Your Moa"
+filename = "aether_protect_your_moa-1.21.1-1.0.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6KeEgbxe/versions/Xwkxbf1A/aether_protect_your_moa-1.21.1-1.0.0-neoforge.jar"
+hash-format = "sha1"
+hash = "3fb4e3df7f3ad33f80c76c4cb77e5041fcce1409"
+
+[update]
+[update.modrinth]
+mod-id = "6KeEgbxe"
+version = "Xwkxbf1A"

@@ -1,0 +1,17 @@
+# Get It Together, Drops! - Server Configuration
+# Forge Everything pack config
+
+# The radius (in blocks) that dropped items should check around them
+# for other dropped items to combine with.
+# 0.5 = vanilla behavior, 2.0 = ATM10 default, higher = more aggressive merging
+# 4.0 gives a noticeable FPS improvement in farms and combat without
+# causing items to merge across unreasonable distances
+# Default: 2.0
+# Range: 0.5 ~ 500.0
+radius = 4.0
+
+# Set to true to also check above and below when merging dropped items.
+# false = vanilla behavior, true = merges vertical item stacks too
+# Recommended true for any pack with vertical farms or item drops
+# Default: false
+checkY = true

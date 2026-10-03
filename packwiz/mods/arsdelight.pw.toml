@@ -1,0 +1,13 @@
+name = "Ars Nouveau's Flavors & Delight"
+filename = "arsdelight-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BwbT0OZE/versions/a4qrRbNs/arsdelight-2.2.2.jar"
+hash-format = "sha1"
+hash = "29fcc302f3b12963bc0042bd553f5dc6a09bcf93"
+
+[update]
+[update.modrinth]
+mod-id = "BwbT0OZE"
+version = "a4qrRbNs"

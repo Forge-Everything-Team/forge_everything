@@ -1,0 +1,13 @@
+name = "Tropicraft"
+filename = "Tropicraft-9.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/20zpzIT1/versions/20oDt9Q4/Tropicraft-9.8.1.jar"
+hash-format = "sha1"
+hash = "9ecbd957f3c5fe0adfd4f3f533700ae57cba8720"
+
+[update]
+[update.modrinth]
+mod-id = "20zpzIT1"
+version = "20oDt9Q4"

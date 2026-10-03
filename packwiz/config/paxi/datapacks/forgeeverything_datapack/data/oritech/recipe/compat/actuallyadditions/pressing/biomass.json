@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "actuallyadditions"
+    }
+  ],
+  "type": "actuallyadditions:pressing",
+  "fluid": {
+    "amount": 80,
+    "id": "everythingores:biofuel"
+  },
+  "ingredient": {
+    "tag": "c:fuels/bio"
+  }
+}

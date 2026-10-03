@@ -1,0 +1,13 @@
+name = "Spectrum"
+filename = "spectrum-1.11.8-1.21.1-neo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/mASbQyNB/spectrum-1.11.8-1.21.1-neo.jar"
+hash-format = "sha1"
+hash = "589f92a09e616202305cc81b3681735a4e9bee85"
+
+[update]
+[update.modrinth]
+mod-id = "3rc31Hgo"
+version = "mASbQyNB"

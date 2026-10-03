@@ -1,0 +1,13 @@
+name = "Extended Industrialization"
+filename = "extended-industrialization-1.15.45-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CCM0U9YU/versions/8pvQoruI/extended-industrialization-1.15.45-1.21.1.jar"
+hash-format = "sha1"
+hash = "f8f2f4b51066b600b5cf7c0ba980386a834c2ef7"
+
+[update]
+[update.modrinth]
+mod-id = "CCM0U9YU"
+version = "8pvQoruI"

@@ -1,0 +1,13 @@
+name = "Assembly Line"
+filename = "assemblyline-1.21.1-0.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SoWP7zzK/versions/ItViY3Xu/assemblyline-1.21.1-0.8.2.jar"
+hash-format = "sha1"
+hash = "695a6ba2cbaf314b1de84f712c62ef2fc377929c"
+
+[update]
+[update.modrinth]
+mod-id = "SoWP7zzK"
+version = "ItViY3Xu"

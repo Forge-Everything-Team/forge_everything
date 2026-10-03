@@ -1,0 +1,13 @@
+name = "BetterEnd: New Dawn"
+filename = "BetterEnd-21.0.35.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IcERKldh/versions/EGvZ3oiw/BetterEnd-21.0.35.jar"
+hash-format = "sha512"
+hash = "267dbaf2ea47f5cedcce96185fa720d857cced9e659473a324a973d2ecd19299a25e98adbdf0cec799006da36eefd6667c66956e239cbeddc4c0f803264ed701"
+
+[update]
+[update.modrinth]
+mod-id = "IcERKldh"
+version = "EGvZ3oiw"

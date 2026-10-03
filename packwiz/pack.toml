@@ -1,0 +1,13 @@
+name = "Forge Everything"
+author = "Forge Everything Team"
+version = "0.0.1-Alpha"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ea944f8039f126192db4ae8fac5683b19844528770356417b460e0f1903f020f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"

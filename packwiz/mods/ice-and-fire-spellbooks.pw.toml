@@ -1,0 +1,13 @@
+name = "Ice and Fire: Spellbooks"
+filename = "ice_and_fire_spellbooks-2.3.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aw5e7yPa/versions/YFXb3T9X/ice_and_fire_spellbooks-2.3.3-1.21.1.jar"
+hash-format = "sha1"
+hash = "27e2828594e2c1140c65f682a72f8cadfb1f5a34"
+
+[update]
+[update.modrinth]
+mod-id = "aw5e7yPa"
+version = "YFXb3T9X"

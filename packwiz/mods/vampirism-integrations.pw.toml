@@ -1,0 +1,13 @@
+name = "Vampirism Integrations"
+filename = "vampirism_integrations-1.21.1-1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ygTFuViO/versions/ua6OU2jv/vampirism_integrations-1.21.1-1.10.2.jar"
+hash-format = "sha1"
+hash = "d0f3a4378aea64c1abf352b0846400d075fdcced"
+
+[update]
+[update.modrinth]
+mod-id = "ygTFuViO"
+version = "ua6OU2jv"

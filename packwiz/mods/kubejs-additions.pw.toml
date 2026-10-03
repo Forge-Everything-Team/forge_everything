@@ -1,0 +1,13 @@
+name = "KubeJS Additions"
+filename = "kubejsadditions-neoforge-1.21.1-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BZemjxZb/versions/EK0wJfqY/kubejsadditions-neoforge-1.21.1-6.0.0.jar"
+hash-format = "sha1"
+hash = "a7b90a34b8a56d187fbd957d4353fa80f93a3553"
+
+[update]
+[update.modrinth]
+mod-id = "BZemjxZb"
+version = "EK0wJfqY"

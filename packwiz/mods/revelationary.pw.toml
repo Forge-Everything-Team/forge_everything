@@ -1,0 +1,13 @@
+name = "Revelationary"
+filename = "revelationary-neoforge-1.5.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eXrl5E3G/versions/vu3TKL73/revelationary-neoforge-1.5.0%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "e87eb734a2e549e73b91ad1dd0cfa024208e47cd"
+
+[update]
+[update.modrinth]
+mod-id = "eXrl5E3G"
+version = "vu3TKL73"

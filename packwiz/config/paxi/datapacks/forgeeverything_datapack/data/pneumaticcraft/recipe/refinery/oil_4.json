@@ -1,0 +1,28 @@
+{
+  "type": "pneumaticcraft:refinery",
+  "input": {
+    "amount": 10,
+    "tag": "c:crude_oil"
+  },
+  "outputs": [
+    {
+      "amount": 2,
+      "id": "everythingores:diesel"
+    },
+    {
+      "amount": 3,
+      "id": "everythingores:kerosene"
+    },
+    {
+      "amount": 3,
+      "id": "everythingores:gasoline"
+    },
+    {
+      "amount": 2,
+      "id": "everythingores:lpg"
+    }
+  ],
+  "temperature": {
+    "min": 373
+  }
+}

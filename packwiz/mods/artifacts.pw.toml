@@ -1,0 +1,13 @@
+name = "Artifacts"
+filename = "artifacts-neoforge-13.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/rGPw090r/artifacts-neoforge-13.2.1.jar"
+hash-format = "sha1"
+hash = "3fe4d52cc0b11d91c75005030e83e3f675e62383"
+
+[update]
+[update.modrinth]
+mod-id = "P0Mu4wcQ"
+version = "rGPw090r"

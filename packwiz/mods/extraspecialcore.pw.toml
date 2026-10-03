@@ -1,0 +1,13 @@
+name = "ExtraSpecialCore"
+filename = "extraspecialcore-1.2.2+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9960370cb74d8ed5426e825f85d95d43ce2c278b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8489461
+project-id = 1535889

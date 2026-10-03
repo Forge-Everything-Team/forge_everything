@@ -1,0 +1,13 @@
+name = "Bibliowoods Legacy"
+filename = "bibliowoods-1.21.1-1.6.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KhRMZgX2/versions/RPOH9rwH/bibliowoods-1.21.1-1.6.5.jar"
+hash-format = "sha1"
+hash = "e697e42db8d743fadff535735b6e3f51787e251c"
+
+[update]
+[update.modrinth]
+mod-id = "KhRMZgX2"
+version = "RPOH9rwH"

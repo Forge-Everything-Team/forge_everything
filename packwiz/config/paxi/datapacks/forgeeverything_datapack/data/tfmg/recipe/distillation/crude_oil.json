@@ -1,0 +1,36 @@
+{
+  "type": "tfmg:distillation",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 340,
+      "fluid": "everythingores:crude_oil"
+    }
+  ],
+  "results": [
+    {
+      "amount": 120,
+      "id": "everythingores:heavy_oil"
+    },
+    {
+      "amount": 60,
+      "id": "everythingores:diesel"
+    },
+    {
+      "amount": 30,
+      "id": "everythingores:kerosene"
+    },
+    {
+      "amount": 10,
+      "id": "tfmg:naphtha"
+    },
+    {
+      "amount": 60,
+      "id": "everythingores:gasoline"
+    },
+    {
+      "amount": 60,
+      "id": "everythingores:lpg"
+    }
+  ]
+}

@@ -1,0 +1,1577 @@
+[
+  {
+    "mob": "minecraft:zombie",
+    "mincount": 12,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:skeleton",
+    "mincount": 12,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:creeper",
+    "mincount": 12,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:spider",
+    "mincount": 12,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:enderman",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:cave_spider",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:drowned",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:husk",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:stray",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:bat",
+    "mincount": 3,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:cave_creeper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:savannah_creeper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:jungle_creeper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:badlands_creeper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:desert_creeper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:snowy_creeper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:mushroom_creeper",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:swamp_creeper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:spruce_creeper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:ocean_creeper",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:bamboo_creeper",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:beach_creeper",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:birch_creeper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:dark_oak_creeper",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:dripstone_creeper",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "creeperoverhaul:hills_creeper",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:cave_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:savanna_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:nether_wastes_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:warped_forest_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:crimson_forest_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:end_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:badlands_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:coral_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:dark_oak_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:desert_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:end_islands_enderman",
+    "mincount": 3,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:flower_fields_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:ice_spikes_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:mushroom_fields_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:soulsand_valley_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:swamp_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:windswept_hills_enderman",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "mutantmonsters:mutant_creeper",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "mutantmonsters:mutant_enderman",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "mutantmonsters:mutant_skeleton",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "mutantmonsters:mutant_zombie",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "mutantmonsters:spider_pig",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:cow",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:sheep",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:pig",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:chicken",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:rabbit",
+    "mincount": 6,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:aechor_plant",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:aerbunny",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:aerwhale",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:blue_swet",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:cockatrice",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:evil_whirlwind",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:flying_cow",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:golden_swet",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:moa",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:phyg",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:sheepuff",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:whirlwind",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "aether:zephyr",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "aquaculture:arrau_turtle",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "aquaculture:box_turtle",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "aquaculture:starshell_turtle",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "artifacts:mimic",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "biomeswevegone:man_o_war",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "biomeswevegone:oddion",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "biomeswevegone:pumpkin_warden",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "create_confectionery:little_gingerbread_man",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "createnuclear:irradiated_cat",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "createnuclear:irradiated_chicken",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "createnuclear:irradiated_wolf",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "deep_aether:aerglow_fish",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "deep_aether:baby_zephyr",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "deep_aether:gentle_wind",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "deep_aether:quail",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "deep_aether:venomite",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "deep_aether:windfly",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "deeperdarker:angler_fish",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "deeperdarker:sculk_centipede",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "deeperdarker:sculk_leech",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "deeperdarker:sculk_snapper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "deeperdarker:shattered",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "deeperdarker:shriek_worm",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "deeperdarker:sludge",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:scarab",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:snowy_enderman",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "endermanoverhaul:spirit",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:aurora_deer",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:creteor",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:crystallized_moth",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:ent",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:freeze",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:gleech",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:lonestar_skeleton",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:luminaris",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:luminofish",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:nightfall_spider",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:permafrost",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:ratlin",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:rookfish",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:seeker",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:shadow_snail",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:shimmer_lacewing",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:starfire_bird",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:tangled",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:tangled_skull",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:thirst_walker",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:tiny_creteor",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:twilight_gaze",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:yeti",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "eternal_starlight:zombified_ratlin",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "evilcraft:netherfish",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "evilcraft:poisonous_libelle",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "evilcraft:vengeance_spirit",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "evilcraft:werewolf",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:ancient_blaze",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:baby_ender_dragon",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:crab",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:elephant",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:flamingo",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:giraffe",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:koala",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:lion",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:mantaray",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:monkey",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:nether_knight",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:ostrich",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:owl",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:peacock",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:penguin",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:raccoon",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:seahorse",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:shark",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:shroomie",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "livingthings:snail",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "mekanismadditions:baby_bogged",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "mekanismadditions:baby_creeper",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "mekanismadditions:baby_enderman",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "mekanismadditions:baby_skeleton",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "mekanismadditions:baby_stray",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "mekanismadditions:baby_wither_skeleton",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "mutantmonsters:creeper_minion",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "mutantmonsters:mutant_snow_golem",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "productivebees:wannabee",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "quark:crab",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "quark:forgotten",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "quark:foxhound",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "quark:shiba",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "quark:stoneling",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "quark:toretoise",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "quark:wraith",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "spectrum:egg_laying_wooly_pig",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "spectrum:eraser",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "spectrum:kindling",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "spectrum:lizard",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "spectrum:marrow",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "spectrum:splinterspawn",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "stellaris:alien",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "stellaris:alien_zombie",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "stellaris:martian_raptor",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "stellaris:mogler",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "stellaris:pygro",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "stellaris:pygro_brute",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "stellaris:star_crawler",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "supplementaries:plunderer",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "the_bumblezone:beehemoth",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "the_bumblezone:honey_slime",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "the_bumblezone:rootmin",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "the_bumblezone:sentry_watcher",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "the_bumblezone:variant_bee",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:ashen",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:brown_basilisk_lizard",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:cowktail",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:cubera",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:dolphin",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:eagle_ray",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:eih",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:failgull",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:fiddler_crab",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:gibnut",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:green_basilisk_lizard",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:hammerhead",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:hummingbird",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:iguana",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:jaguar",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:koa",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:man_o_war",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:manatee",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:marlin",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:papyrus_canary",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:papyrus_gonolek",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:piranha",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:sardine",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:turtle",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:sea_urchin",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:seahorse",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:shoebill_stork",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:slender_harvest_mouse",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:spider_monkey",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:starfish",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:tapir",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:toucan",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:tree_frog",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:tropi_spider",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:tropibee",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:tropical_fish",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:tropicreeper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:tropiskelly",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:v_monkey",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:white_collared_oliveback",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:white_lipped_peccary",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "tropicraft:white_winged_warbler",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:bighorn_sheep",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:boar",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:deer",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:dwarf_rabbit",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:fire_beetle",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:hedge_spider",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:hostile_wolf",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:king_spider",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:kobold",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:maze_slime",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:minotaur",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:mist_wolf",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:mosquito_swarm",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:penguin",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:pinch_beetle",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:raven",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:redcap",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:redcap_sapper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:skeleton_druid",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:slime_beetle",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:squirrel",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:swarm_spider",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:tiny_bird",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:towerwood_borer",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:troll",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:winter_wolf",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:wraith",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "twilightforest:yeti",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:brute",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:denizen",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:dweller",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:forgotten",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:gloomper",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:greater_dweller",
+    "mincount": 3,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:gwib",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:gwibling",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:minion",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:mog",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:muncher",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:mysterious_pot",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:nargoyle",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:rotbeast",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:rotbelcher",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:rotling",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:rotwalker",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:scintling",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:smog_mog",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:sploogie",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "undergarden:stoneborn",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "vampirism:advanced_vampire",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "vampirism:advanced_hunter",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "vampirism:vampire",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "vampirism:hunter",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "variantsandventures:gelid",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "variantsandventures:murk",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "variantsandventures:thicket",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "variantsandventures:verdant",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "werewolves:alpha_werewolf",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "werewolves:human_werewolf",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "werewolves:werewolf_beast",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "werewolves:werewolf_survivalist",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "witchery:banshee",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "witchery:coven_witch",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "witchery:ent",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "witchery:imp",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "witchery:mandrake",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "witchery:nightmare",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "witchery:owl",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "witchery:parasitic_louse",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "witchery:spectral_pig",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "witchery:vampire",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "witchery:werewolf",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:phantom",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:pillager",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:vindicator",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:witch",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:wither_skeleton",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:silverfish",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:endermite",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:vex",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:evoker",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:blaze",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:magma_cube",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:slime",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:ghast",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:hoglin",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:piglin",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:piglin_brute",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:zoglin",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:zombified_piglin",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:guardian",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:elder_guardian",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:shulker",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:ravager",
+    "mincount": 2,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:zombie_villager",
+    "mincount": 8,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:wolf",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:fox",
+    "mincount": 10,
+    "result": "deny"
+  }
+]

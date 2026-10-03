@@ -1,0 +1,16 @@
+{
+  "replace": true,
+  "values": [
+    "everythingores:crude_oil",
+    "pneumaticcraft:oil",
+    "modern_industrialization:crude_oil",
+    "oritech:still_oil",
+    "stellaris:oil",
+    "tfmg:flowing_crude_oil",
+    "tfmg:crude_oil",
+    {
+      "id": "#c:fuels/crude_oil",
+      "required": false
+    }
+  ]
+}

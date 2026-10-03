@@ -1,0 +1,16 @@
+{
+  "values": {
+    "everythingores:crude_oil": {
+      "eu_per_mb": 16
+    },
+    "everythingores:diesel": {
+      "eu_per_mb": 400
+    },
+    "everythingores:biodiesel": {
+      "eu_per_mb": 250
+    },
+    "everythingores:creosote": {
+      "eu_per_mb": 160
+    }
+  }
+}

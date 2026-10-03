@@ -1,0 +1,13 @@
+name = "Pam's HarvestCraft 2: Crops"
+filename = "pamhc2crops-NEOFORGE-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5xO6VNlk/versions/zlZevQk0/pamhc2crops-NEOFORGE-1.21.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "15f0bffa9f3c8c0868d29f9d33c75e586d55425d"
+
+[update]
+[update.modrinth]
+mod-id = "5xO6VNlk"
+version = "zlZevQk0"

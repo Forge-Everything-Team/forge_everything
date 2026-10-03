@@ -1,0 +1,13 @@
+name = "Ascended Quark"
+filename = "ascended_quark-1.21.1-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SqIC1Dq9/versions/QruUQJj7/ascended_quark-1.21.1-1.1.7.jar"
+hash-format = "sha512"
+hash = "07a09b14a53d50f0fa79622d5afe3cdaf2cb3d00bd2f33c1cb133f5dff97448caade1cfdef9620266b7476c040b505c0646fc89abafd581523b2df3c9caffa77"
+
+[update]
+[update.modrinth]
+mod-id = "SqIC1Dq9"
+version = "QruUQJj7"

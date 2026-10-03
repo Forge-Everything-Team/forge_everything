@@ -1,0 +1,13 @@
+name = "Just Another Witchery Remake"
+filename = "witchery-0.4.22.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LCO8KZvC/versions/ewSGZ6UP/witchery-0.4.22.jar"
+hash-format = "sha1"
+hash = "a988adcb98903736d80b76f248a1e9e7fa60a625"
+
+[update]
+[update.modrinth]
+mod-id = "LCO8KZvC"
+version = "ewSGZ6UP"

@@ -1,0 +1,13 @@
+name = "EvoLoginTimeout"
+filename = "EvoLoginTimeout-NeoForge-1.21.1-1.0.9.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "7f115fb57a139268bde8d4d4234f433b351e08d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8357855
+project-id = 1595366

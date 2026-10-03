@@ -1,0 +1,23 @@
+{
+  "type": "industrialization_overdrive:pyrolyse_oven",
+  "duration": 160,
+  "eu": 8,
+  "fluid_outputs": [
+    {
+      "amount": 1000,
+      "fluid": "everythingores:creosote"
+    }
+  ],
+  "item_inputs": [
+    {
+      "amount": 4,
+      "tag": "minecraft:logs_that_burn"
+    }
+  ],
+  "item_outputs": [
+    {
+      "amount": 5,
+      "item": "minecraft:charcoal"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "AppFlux"
+filename = "AppliedFlux-1.21-2.1.4-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oMgZ004U/versions/sD979rMC/AppliedFlux-1.21-2.1.4-neoforge.jar"
+hash-format = "sha1"
+hash = "741e856b0c928fc15b59e92d98ea75ef98541ee8"
+
+[update]
+[update.modrinth]
+mod-id = "oMgZ004U"
+version = "sD979rMC"

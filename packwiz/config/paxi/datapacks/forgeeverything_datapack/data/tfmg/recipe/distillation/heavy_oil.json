@@ -1,0 +1,32 @@
+{
+  "type": "tfmg:distillation",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 200,
+      "fluid": "everythingores:heavy_oil"
+    }
+  ],
+  "results": [
+    {
+      "amount": 100,
+      "id": "everythingores:heavy_oil"
+    },
+    {
+      "amount": 25,
+      "id": "everythingores:lubricant"
+    },
+    {
+      "amount": 50,
+      "id": "everythingores:diesel"
+    },
+    {
+      "amount": 20,
+      "id": "everythingores:kerosene"
+    },
+    {
+      "amount": 5,
+      "id": "tfmg:naphtha"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Mystcraft Reborn"
+filename = "mystcraft_reborn-1.4.2 Beta-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PxYGeIhV/versions/hBjkM14W/mystcraft_reborn-1.4.2%20Beta-all.jar"
+hash-format = "sha1"
+hash = "a04adcab923cfe8de7128cbbbe1e1a4cbb838bf3"
+
+[update]
+[update.modrinth]
+mod-id = "PxYGeIhV"
+version = "hBjkM14W"

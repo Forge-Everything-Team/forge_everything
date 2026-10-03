@@ -1,0 +1,13 @@
+name = "IceAndFire Community Edition"
+filename = "iceandfire-2.0-beta.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VpmCsizY/versions/kdvvFM7V/iceandfire-2.0-beta.17.jar"
+hash-format = "sha1"
+hash = "a14c9ca16da7a108bb454000e560a0f8495ff0fe"
+
+[update]
+[update.modrinth]
+mod-id = "VpmCsizY"
+version = "kdvvFM7V"

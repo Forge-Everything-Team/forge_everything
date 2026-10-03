@@ -1,0 +1,13 @@
+name = "Silent Gear"
+filename = "silent-gear-1.21.1-neoforge-4.2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/73mSSnCf/versions/VRVOMdub/silent-gear-1.21.1-neoforge-4.2.1.1.jar"
+hash-format = "sha1"
+hash = "928064b09748d6e963077c114d65f5ce79aff581"
+
+[update]
+[update.modrinth]
+mod-id = "73mSSnCf"
+version = "VRVOMdub"

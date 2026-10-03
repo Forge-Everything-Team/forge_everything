@@ -1,0 +1,13 @@
+name = "Guide-API VP"
+filename = "Guide-API-VP-1.21.1-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w5L2PHJU/versions/4BMTXgHM/Guide-API-VP-1.21.1-2.3.0.jar"
+hash-format = "sha512"
+hash = "ae301999031e23bc877dec523b29c4aa4622e181f5f7c6fa6a37dc7e112bbde58aa26c30998c171bea0f8d98ed7f9ee7a6ceee25d4fd3ad8bf96ee315fbf5d10"
+
+[update]
+[update.modrinth]
+mod-id = "w5L2PHJU"
+version = "4BMTXgHM"

@@ -1,0 +1,13 @@
+name = "Ars Ocultas"
+filename = "ars_ocultas-1.21.1-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tsw8vbks/versions/jCboclxm/ars_ocultas-1.21.1-2.4.1.jar"
+hash-format = "sha1"
+hash = "b1ce2428d28713e50da6e93a421d8b97cc448f6f"
+
+[update]
+[update.modrinth]
+mod-id = "Tsw8vbks"
+version = "jCboclxm"

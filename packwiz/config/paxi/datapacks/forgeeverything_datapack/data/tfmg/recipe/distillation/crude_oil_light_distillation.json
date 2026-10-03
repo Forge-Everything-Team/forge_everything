@@ -1,0 +1,24 @@
+{
+  "type": "tfmg:distillation",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 200,
+      "fluid": "everythingores:crude_oil"
+    }
+  ],
+  "results": [
+    {
+      "amount": 150,
+      "id": "everythingores:heavy_oil"
+    },
+    {
+      "amount": 45,
+      "id": "everythingores:diesel"
+    },
+    {
+      "amount": 5,
+      "id": "everythingores:gasoline"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 500,
+      "fluid": "everythingores:sulfuric_acid"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfmg:copper_sulfate"
+    }
+  ]
+}

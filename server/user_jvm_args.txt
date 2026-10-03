@@ -1,0 +1,79 @@
+# Forge Everything - Recommended JVM Arguments
+# Place this file in your instance root folder alongside the mods folder.
+# Modrinth App, CurseForge, and Prism Launcher all read this file.
+#
+# These are tuned for 16GB RAM systems targeting <12GB heap usage.
+# If you have 32GB RAM you can raise -Xmx to 14G safely.
+# Do NOT set -Xmx higher than 12G on a 16GB system - leaving headroom
+# for the OS and VRAM spillover is more important than a bigger heap.
+
+# -- Heap size ----------------------------------------------------------------
+-Xmx12G
+-Xms4G
+
+# -- Unlock Experimental VM Options -------------------------------------------
+# Absolutely required for some args we've explicitly stated.
+-XX:+UnlockExperimentalVMOptions
+
+# -- Garbage Collector: G1GC --------------------------------------------------
+# G1GC is the right choice for large modpacks. It keeps GC pauses short
+# by collecting in incremental regions rather than stopping the world.
+-XX:+UseG1GC
+
+# Target max GC pause of 200ms. Lower = more frequent but shorter pauses.
+# 200ms is a good balance for modded MC - you feel 500ms pauses, not 200ms.
+-XX:MaxGCPauseMillis=200
+
+# G1GC region size. 16MB is optimal for heaps in the 8-16GB range.
+# Too small = too many regions to track. Too large = wastes space.
+-XX:G1HeapRegionSize=16M
+
+# Start GC earlier (at 35% heap used) so it never scrambles to catch up.
+# Default is 45% which is too late for a pack this size.
+-XX:InitiatingHeapOccupancyPercent=35
+
+# Reserve 20% of heap for GC overhead. Reduces "to-space exhausted" errors
+# which cause full GC pauses that freeze the game for several seconds.
+-XX:G1ReservePercent=20
+
+# How aggressively to reclaim old generation memory. 75 is conservative
+# and stable; lower values reclaim more but risk longer pauses.
+-XX:G1MixedGCLiveThresholdPercent=75
+
+# -- Memory and allocation tuning ---------------------------------------------
+# Disable explicit System.gc() calls from mods. Some mods call this
+# aggressively (looking at you, older storage mods) causing full GC pauses.
+-XX:+DisableExplicitGC
+
+# Use compressed object pointers. Reduces memory overhead by ~30% on heaps
+# under 32GB. Should be on by default but worth being explicit.
+-XX:+UseCompressedOops
+
+# Aggressive string deduplication. Modded MC has enormous string duplication
+# from ResourceLocation objects. This reclaims meaningful heap.
+-XX:+UseStringDeduplication
+
+# -- JIT compiler tuning ------------------------------------------------------
+# Use tiered compilation (interpreter -> C1 -> C2). Default on Java 21
+# but worth being explicit for launchers that might override.
+-XX:+TieredCompilation
+
+# Inline more aggressively. Modded MC has deep call chains (especially
+# KubeJS, Mekanism, and Create) that benefit from more inlining.
+-XX:MaxInlineSize=256
+-XX:FreqInlineSize=256
+
+# -- Crash and debug ----------------------------------------------------------
+# Write a heap dump on OOM so you can diagnose what caused it.
+# The path is relative - it'll land in your instance root.
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:HeapDumpPath=./heap-dump.hprof
+
+# Print GC activity to a log file. Lets you see if GC is the cause
+# of frame drops without needing spark running all the time.
+-Xlog:gc*:file=./logs/gc.log:time,uptime:filecount=3,filesize=10m
+
+# -- Module system (required for NeoForge 1.21.1) -----------------------------
+--add-opens java.base/java.lang=ALL-UNNAMED
+--add-opens java.base/java.util=ALL-UNNAMED
+--add-opens java.base/java.util.concurrent=ALL-UNNAMED

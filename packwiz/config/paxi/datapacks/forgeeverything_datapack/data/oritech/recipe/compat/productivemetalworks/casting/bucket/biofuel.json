@@ -1,0 +1,21 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "productivemetalworks"
+    }
+  ],
+  "type": "productivemetalworks:item_casting",
+  "cast": {
+    "item": "minecraft:bucket"
+  },
+  "consume_cast": true,
+  "fluid": {
+    "amount": 1000,
+    "fluid": "everythingores:biofuel"
+  },
+  "result": {
+    "count": 1,
+    "id": "everythingores:biofuel_bucket"
+  }
+}

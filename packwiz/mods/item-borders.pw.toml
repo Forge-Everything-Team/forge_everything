@@ -1,0 +1,13 @@
+name = "Item Borders"
+filename = "ItemBorders-1.21-neoforge-1.2.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/b1fMg6sH/versions/WjErgKWV/ItemBorders-1.21-neoforge-1.2.5.jar"
+hash-format = "sha1"
+hash = "b5ae56007c0bbb86b9a05f9f12b522ed485d7884"
+
+[update]
+[update.modrinth]
+mod-id = "b1fMg6sH"
+version = "WjErgKWV"

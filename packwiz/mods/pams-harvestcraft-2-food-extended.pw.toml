@@ -1,0 +1,13 @@
+name = "Pam's HarvestCraft 2 - Food Extended"
+filename = "pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bdPeAbPS/versions/8Jv3MDxv/pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "0cf7f668fdedef93446f33215484913991185102"
+
+[update]
+[update.modrinth]
+mod-id = "bdPeAbPS"
+version = "8Jv3MDxv"

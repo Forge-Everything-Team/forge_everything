@@ -1,0 +1,126 @@
+# Forge Everything - Recommended JVM Arguments
+# Place this file in your instance root folder alongside the mods folder.
+# Modrinth App, CurseForge, and Prism Launcher all read this file.
+#
+# These are tuned for 16GB RAM systems targeting <12GB heap usage.
+# If you have 32GB RAM you can raise -Xmx to 14G safely.
+
+# ============================================================================
+#  DO NOT ENABLE ZGC. WE ARE BEGGING.
+# ============================================================================
+# Look. We know. You read a benchmark. You saw "sub-millisecond pause times"
+# and "fully concurrent collection" and you thought, and we quote, "this is
+# free performance, why is nobody doing this." That was us. That was literally
+# us. We were you. We were so hyped.
+#
+# Reader, it was not free performance. It cost us multiple weeks and one (1)
+# development machine's will to live. (It lived, but it really didn't want to after this.)
+#
+# Here's the bit nobody tells you: on Windows, ZGC doesn't allocate heap the
+# normal way. It backs the heap with pagefile-backed sections instead of plain
+# private memory. So Task Manager looks at the java.exe process, goes "yeah
+# that's fine girl," and reports numbers that are completely, confidently,
+# gloriously wrong. Your actual system commit charge is out here climbing a
+# ladder into the stratosphere and every tool you'd normally check is telling
+# you everything is fine. It is not fine. It has never been less fine.
+#
+# Then we made it worse! We paired it with -XX:+AlwaysPreTouch (commit the
+# entire heap up front) and -XX:-ZUncommit (never, ever give any of it back).
+# In hindsight this combination is basically a written request for the JVM to
+# grab as much memory as it can reach and then refuse to release a single byte
+# of it for the rest of eternity. Which it did. Enthusiastically.
+#
+# So ZGC would go collect a truly heroic amount of garbage - genuinely great
+# at its job, top marks, no notes - and then just... keep it. All of it. Sat
+# there on a garbage can full of garbage like Oscar the Grouch defending his
+# life's work. "Yes I collected it. No you cannot have the memory back. This
+# is MY trash now." Heap commit only ever went up. High-water mark forever.
+#
+# Pagefile hit ~55GB. On a 64GB machine. You could not open programs. You
+# could not interact with the programs that were already open. Windows shut
+# down and restart did nothing because there wasn't enough memory left to
+# perform the shutdown. The only way out was a hard power cycle, which - say
+# it with us - IS NOT SAFE and we do not recommend doing it to a machine with
+# unsaved work on it, which of course it did, because that's how this works.
+#
+# We chased that ghost for WEEKS. Blamed mods. Blamed drivers. Blamed the
+# heap. Wrote an entire PowerShell monitor from scratch just to watch system
+# commit charge in real time because nothing off the shelf could see it.
+#
+# Anyway. G1GC. Use G1GC. It's boring, it's predictable, it gives memory back
+# like a normal well-adjusted garbage collector, and it has never once tried
+# to take our entire operating system hostage.
+#
+# We suffered so you don't have to. You're welcome. Scroll down.
+# ============================================================================
+
+# -- Heap size ----------------------------------------------------------------
+-Xmx12G
+-Xms4G
+
+# -- Unlock Experimental VM Options -------------------------------------------
+# Absolutely required for some args we've explicitly stated.
+-XX:+UnlockExperimentalVMOptions
+
+# -- Garbage Collector: G1GC --------------------------------------------------
+# G1GC is the right choice for large modpacks. It keeps GC pauses short
+# by collecting in incremental regions rather than stopping the world.
+-XX:+UseG1GC
+
+# Target max GC pause of 200ms. Lower = more frequent but shorter pauses.
+# 200ms is a good balance for modded MC - you feel 500ms pauses, not 200ms.
+-XX:MaxGCPauseMillis=200
+
+# G1GC region size. 16MB is optimal for heaps in the 8-16GB range.
+# Too small = too many regions to track. Too large = wastes space.
+-XX:G1HeapRegionSize=16M
+
+# Start GC earlier (at 35% heap used) so it never scrambles to catch up.
+# Default is 45% which is too late for a pack this size.
+-XX:InitiatingHeapOccupancyPercent=35
+
+# Reserve 20% of heap for GC overhead. Reduces "to-space exhausted" errors
+# which cause full GC pauses that freeze the game for several seconds.
+-XX:G1ReservePercent=20
+
+# How aggressively to reclaim old generation memory. 75 is conservative
+# and stable; lower values reclaim more but risk longer pauses.
+-XX:G1MixedGCLiveThresholdPercent=75
+
+# -- Memory and allocation tuning ---------------------------------------------
+# Disable explicit System.gc() calls from mods. Some mods call this
+# aggressively (looking at you, older storage mods) causing full GC pauses.
+-XX:+DisableExplicitGC
+
+# Use compressed object pointers. Reduces memory overhead by ~30% on heaps
+# under 32GB. Should be on by default but worth being explicit.
+-XX:+UseCompressedOops
+
+# Aggressive string deduplication. Modded MC has enormous string duplication
+# from ResourceLocation objects. This reclaims meaningful heap.
+-XX:+UseStringDeduplication
+
+# -- JIT compiler tuning ------------------------------------------------------
+# Use tiered compilation (interpreter -> C1 -> C2). Default on Java 21
+# but worth being explicit for launchers that might override.
+-XX:+TieredCompilation
+
+# Inline more aggressively. Modded MC has deep call chains (especially
+# KubeJS, Mekanism, and Create) that benefit from more inlining.
+-XX:MaxInlineSize=256
+-XX:FreqInlineSize=256
+
+# -- Crash and debug ----------------------------------------------------------
+# Write a heap dump on OOM so you can diagnose what caused it.
+# The path is relative - it'll land in your instance root.
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:HeapDumpPath=./heap-dump.hprof
+
+# Print GC activity to a log file. Lets you see if GC is the cause
+# of frame drops without needing spark running all the time.
+-Xlog:gc*:file=./logs/gc.log:time,uptime:filecount=3,filesize=10m
+
+# -- Module system (required for NeoForge 1.21.1) -----------------------------
+--add-opens java.base/java.lang=ALL-UNNAMED
+--add-opens java.base/java.util=ALL-UNNAMED
+--add-opens java.base/java.util.concurrent=ALL-UNNAMED

@@ -1,0 +1,13 @@
+name = "Extreme Reactors"
+filename = "ExtremeReactors2-1.21.1-2.4.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/idkvShUy/versions/wABJBBTd/ExtremeReactors2-1.21.1-2.4.9.jar"
+hash-format = "sha1"
+hash = "9a079dfcbb4fa350dfbe76b2674d20f1028cad62"
+
+[update]
+[update.modrinth]
+mod-id = "idkvShUy"
+version = "wABJBBTd"

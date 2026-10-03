@@ -1,0 +1,13 @@
+name = "Chef's Delight - Farmer's Delight Villagers"
+filename = "chefsdelight-1.0.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pvcsfne4/versions/csBO1q5h/chefsdelight-1.0.5-neoforge-1.21.1.jar"
+hash-format = "sha1"
+hash = "2ee0923d811a15e1d9dab536a940e4ac0143a4fa"
+
+[update]
+[update.modrinth]
+mod-id = "pvcsfne4"
+version = "csBO1q5h"

@@ -1,0 +1,13 @@
+name = "In Control!"
+filename = "incontrol-1.21-10.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KpICtuVx/versions/TBI4EWjs/incontrol-1.21-10.2.6.jar"
+hash-format = "sha1"
+hash = "7671cdc14af14166e72eff07eab7e55d81b52a41"
+
+[update]
+[update.modrinth]
+mod-id = "KpICtuVx"
+version = "TBI4EWjs"

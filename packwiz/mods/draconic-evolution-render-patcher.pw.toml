@@ -1,0 +1,13 @@
+name = "Draconic Evolution Render Patcher"
+filename = "derenderpatcher-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BNhriTkm/versions/qVGpp8dZ/derenderpatcher-2.0.0.jar"
+hash-format = "sha1"
+hash = "10e1d91f894f3afc8657b8080084ebd66c86daf1"
+
+[update]
+[update.modrinth]
+mod-id = "BNhriTkm"
+version = "qVGpp8dZ"

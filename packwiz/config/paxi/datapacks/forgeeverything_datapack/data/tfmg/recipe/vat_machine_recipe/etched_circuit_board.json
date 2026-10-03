@@ -1,0 +1,19 @@
+{
+  "type": "tfmg:vat_machine_recipe",
+  "ingredients": [
+    {
+      "item": "tfmg:coated_circuit_board"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "everythingores:sulfuric_acid"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "id": "tfmg:etched_circuit_board"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Reliquified Artifacts"
+filename = "reliquified_artifacts-1.21.1-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GnU07giL/versions/8e2B3E8s/reliquified_artifacts-1.21.1-1.0.7.jar"
+hash-format = "sha1"
+hash = "b05a777e47d17c645aab551a3ccb759340530a51"
+
+[update]
+[update.modrinth]
+mod-id = "GnU07giL"
+version = "8e2B3E8s"

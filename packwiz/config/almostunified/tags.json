@@ -1,0 +1,79 @@
+{
+  "custom_tags": {
+    "c:buckets/crude_oil": [
+      "pneumaticcraft:oil_bucket",
+      "oritech:still_oil_bucket",
+      "modern_industrialization:crude_oil_bucket",
+      "stellaris:oil_bucket"
+    ],
+    "c:buckets/biofuel": [
+      "createaddition:bioethanol_bucket",
+      "industrialforegoing:biofuel_bucket",
+      "oritech:still_biofuel_bucket"
+    ],
+    "c:buckets/gasoline": [
+      "pneumaticcraft:gasoline_bucket",
+      "tfmg:gasoline_bucket"
+    ],
+    "c:buckets/diesel": [
+      "pneumaticcraft:diesel_bucket",
+      "tfmg:diesel_bucket",
+      "oritech:still_diesel_bucket",
+      "modern_industrialization:diesel_bucket",
+      "stellaris:diesel_bucket"
+    ],
+    "c:buckets/biodiesel": [
+      "pneumaticcraft:biodiesel_bucket",
+      "immersiveengineering:biodiesel_bucket",
+      "modern_industrialization:biodiesel_bucket"
+    ],
+    "c:buckets/kerosene": [
+      "pneumaticcraft:kerosene_bucket",
+      "tfmg:kerosene_bucket"
+    ],
+    "c:buckets/ethanol": [
+      "pneumaticcraft:ethanol_bucket",
+      "immersiveengineering:ethanol_bucket",
+      "modern_industrialization:ethanol_bucket"
+    ],
+    "c:buckets/creosote": [
+      "immersiveengineering:creosote_bucket",
+      "modern_industrialization:creosote_bucket",
+      "tfmg:creosote_bucket"
+    ],
+    "c:buckets/sulfuric_acid": [
+      "mekanism:sulfuric_acid_bucket",
+      "modern_industrialization:sulfuric_acid_bucket",
+      "oritech:still_sulfuric_acid_bucket",
+      "tfmg:sulfuric_acid_bucket"
+    ],
+    "c:buckets/lpg": [
+      "pneumaticcraft:lpg_bucket",
+      "tfmg:lpg_bucket"
+    ],
+    "c:buckets/heavy_oil": [
+      "oritech:still_heavy_oil_bucket",
+      "tfmg:heavy_oil_bucket"
+    ],
+    "c:buckets/lubricant": [
+      "modern_industrialization:lubricant_bucket",
+      "pneumaticcraft:lubricant_bucket",
+      "tfmg:lubrication_oil_bucket"
+    ]
+  },
+  "tag_substitutions": {
+    "c:ingots/stainless_steel": ["c:ingots/stainlesssteel"],
+    "c:dusts/stainless_steel": ["c:dusts/stainlesssteel"],
+    "c:plates/stainless_steel": ["c:plates/stainlesssteel"],
+    "c:rods/stainless_steel": ["c:rods/stainlesssteel"],
+    "c:nuggets/stainless_steel": ["c:nuggets/stainlesssteel"],
+    "c:storage_blocks/stainless_steel": ["c:storage_blocks/stainlesssteel"],
+    "c:ingots/red_alloy": ["c:ingots/redstone_alloy"],
+    "c:storage_blocks/red_alloy": ["c:storage_blocks/redstone_alloy"],
+    "c:nuggets/red_alloy": ["c:nuggets/redstone_alloy"]
+  },
+  "item_tag_inheritance_mode": "ALLOW",
+  "item_tag_inheritance": {},
+  "block_tag_inheritance_mode": "ALLOW",
+  "block_tag_inheritance": {}
+}

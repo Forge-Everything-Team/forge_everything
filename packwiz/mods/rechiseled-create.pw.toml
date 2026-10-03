@@ -1,0 +1,13 @@
+name = "Rechiseled: Create"
+filename = "rechiseledcreate-1.1.1-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6867niZ/versions/VnOezhJR/rechiseledcreate-1.1.1-neoforge-mc1.21.jar"
+hash-format = "sha1"
+hash = "6f7e53f39eb477d7cee8e21af215cd3db698deda"
+
+[update]
+[update.modrinth]
+mod-id = "E6867niZ"
+version = "VnOezhJR"

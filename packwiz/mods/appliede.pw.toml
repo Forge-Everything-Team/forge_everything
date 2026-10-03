@@ -1,0 +1,13 @@
+name = "AppliedE"
+filename = "appliede-1.0.8-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SyKS54UY/versions/R5MXisky/appliede-1.0.8-beta.jar"
+hash-format = "sha1"
+hash = "86e302e0d2ee039b74590d13caf50d9636957cfc"
+
+[update]
+[update.modrinth]
+mod-id = "SyKS54UY"
+version = "R5MXisky"

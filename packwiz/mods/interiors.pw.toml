@@ -1,0 +1,13 @@
+name = "Create: Interiors"
+filename = "interiors-1.21.1-neoforge-0.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r4Knci2k/versions/gBrfZy6S/interiors-1.21.1-neoforge-0.6.1.jar"
+hash-format = "sha1"
+hash = "a558777ef4510da2f4d32ca3da6ac7384c9a9940"
+
+[update]
+[update.modrinth]
+mod-id = "r4Knci2k"
+version = "gBrfZy6S"

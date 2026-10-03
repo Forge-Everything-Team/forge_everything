@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "everythingores:biofuel",
+    "createaddition:bioethanol",
+    "createaddition:flowing_bioethanol",
+    "industrialforegoing:biofuel",
+    "oritech:still_biofuel"
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Magnum Torch"
+filename = "MagnumTorch-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jorDmSKv/versions/BZAhwo2r/MagnumTorch-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha1"
+hash = "e507e0c5c0008d541da9f1f64842446c4ecb9d1f"
+
+[update]
+[update.modrinth]
+mod-id = "jorDmSKv"
+version = "BZAhwo2r"

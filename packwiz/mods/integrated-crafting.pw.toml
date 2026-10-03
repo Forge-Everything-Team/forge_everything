@@ -1,0 +1,13 @@
+name = " Integrated Crafting"
+filename = "integratedcrafting-1.21.1-neoforge-1.4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qwpACdla/versions/se5g7ewq/integratedcrafting-1.21.1-neoforge-1.4.6.jar"
+hash-format = "sha1"
+hash = "ce144145cb7774f29d53517cfc4031e47f26248f"
+
+[update]
+[update.modrinth]
+mod-id = "qwpACdla"
+version = "se5g7ewq"

@@ -1,0 +1,13 @@
+name = "Icarus"
+filename = "Icarus-NeoForge-4.7.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dw7M6XKW/versions/I7uTimBi/Icarus-NeoForge-4.7.6.jar"
+hash-format = "sha1"
+hash = "ebccf24b5087748039bca5e1ce97c548d5d490aa"
+
+[update]
+[update.modrinth]
+mod-id = "Dw7M6XKW"
+version = "I7uTimBi"

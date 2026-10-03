@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:fermenter",
+  "energy": 6400,
+  "fluid": {
+    "amount": 80,
+    "id": "everythingores:ethanol"
+  },
+  "input": {
+    "item": "minecraft:apple"
+  }
+}

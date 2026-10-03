@@ -1,0 +1,13 @@
+name = "Ender IO"
+filename = "enderio-8.2.11-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/49ZofO4f/versions/Tfs8aJPH/enderio-8.2.11-beta.jar"
+hash-format = "sha1"
+hash = "87b7218eed2e2f325ddcb8d3ce94a67aabaa17ca"
+
+[update]
+[update.modrinth]
+mod-id = "49ZofO4f"
+version = "Tfs8aJPH"

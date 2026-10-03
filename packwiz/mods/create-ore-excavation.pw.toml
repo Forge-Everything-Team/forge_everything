@@ -1,0 +1,13 @@
+name = "Create Ore Excavation"
+filename = "createoreexcavation-1.21-1.6.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ResbpANg/versions/tivxiPTo/createoreexcavation-1.21-1.6.8.jar"
+hash-format = "sha1"
+hash = "9a76b86ec7470d4bd7332f22d6e50a3693098c10"
+
+[update]
+[update.modrinth]
+mod-id = "ResbpANg"
+version = "tivxiPTo"

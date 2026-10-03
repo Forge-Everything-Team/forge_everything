@@ -1,0 +1,13 @@
+name = "Rainbows"
+filename = "Rainbows-1.21-1.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MdWygI5q/versions/8TqxNXTn/Rainbows-1.21-1.5.jar"
+hash-format = "sha1"
+hash = "82a789be56ea483e0ca94454c780da0b47e937d1"
+
+[update]
+[update.modrinth]
+mod-id = "MdWygI5q"
+version = "8TqxNXTn"

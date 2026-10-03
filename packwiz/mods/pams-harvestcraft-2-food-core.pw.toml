@@ -1,0 +1,13 @@
+name = "Pam's HarvestCraft 2: Food Core"
+filename = "pamhc2foodcore-NEOFORGE-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z9OywhE4/versions/IHVdcpYW/pamhc2foodcore-NEOFORGE-1.21.1-1.0.2.jar"
+hash-format = "sha1"
+hash = "aa757abe71467b1d39a6e40c0bfecac9ae3f1e14"
+
+[update]
+[update.modrinth]
+mod-id = "Z9OywhE4"
+version = "IHVdcpYW"

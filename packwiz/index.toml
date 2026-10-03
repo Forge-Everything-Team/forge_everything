@@ -1,0 +1,4467 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/Mekanism/world.toml"
+hash = "a13a70fea7d926111f1375ffa8397cd218930644bdcd75d7e0941f42ff985e0a"
+
+[[files]]
+file = "config/ProjectE/common.toml"
+hash = "9327faca9f0b94ff77ecf114eb31644f4ae117b549fe5272b65d04a0d2af3017"
+
+[[files]]
+file = "config/alltheleaks.json"
+hash = "a0e1c6f9c998caf0dfdf39e0de4f7b9f788fc7e12d266dcca37ba20ea6d5c2c3"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
+
+[[files]]
+file = "config/almostunified/placeholders.json"
+hash = "76b924b9f3e15339e28e5f61393553951f8e6a6b5d9a64e93f31d52f2ec3f765"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "37f013c49586db025c17f9fa6657c6f239e0169ebc97ef682ff114a2ede43c5e"
+
+[[files]]
+file = "config/almostunified/tags.json"
+hash = "85ed8ba1d8fad655b575b92966f18e395fb5eb8011e7119db6f2aa08288b327d"
+
+[[files]]
+file = "config/almostunified/unification/crude_oil.json"
+hash = "745e2c96fdde4d11b38668b141113681396045139d450450f345f73a2124fc8e"
+
+[[files]]
+file = "config/almostunified/unification/fluid_buckets.json"
+hash = "3c161a033e38c3ce1ea638a60c1c4a0e82e446da6d1a7f37e3eb8ecf28d3bcb1"
+
+[[files]]
+file = "config/almostunified/unification/foods.json"
+hash = "b7018756cec77dd2a550633c4dddda8223e489949cf45dfa5db706eec5c68c69"
+
+[[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "883ef864dc13166edef28b72d9f822f49c43141dbcce76cc9039b82645bc53f6"
+
+[[files]]
+file = "config/almostunified/unification/materials.json.bak-preclaude"
+hash = "0bfd8bb8d7a72501c8835febbcc9e85f432c2f090b8dde6a97ca2a304edbedea"
+
+[[files]]
+file = "config/almostunified/unification/placeholders.json"
+hash = "b017dcbbba88a2c36ec5a73a3792a93d1ff6080245aab513cea62fa5143d3aaf"
+
+[[files]]
+file = "config/almostunified/unification/placeholders.json.bak"
+hash = "2f17c706806fee53fffc317c44d75aae3cb68d73365fd96012a388a9af59ec58"
+
+[[files]]
+file = "config/ballistix-common.toml"
+hash = "5ab8f659b9df7e3c95bfe156d15d5249df44c6df6c909eac287777d775b5849b"
+
+[[files]]
+file = "config/calmtheleaks-common.toml"
+hash = "c32f9e85833c82d11e2c299423232f745416d5735afde8e9a62009bf4df54349"
+
+[[files]]
+file = "config/crash_assistant/config.toml"
+hash = "8b708df5f9fc5a9d41f2c53c586bdf257b83c4eabf9506efe660d64075e1bdec"
+
+[[files]]
+file = "config/crashutilities-server.toml"
+hash = "b3b468329686161350ed57d9bbaa0838b201477453de7a7d8ab5e48bb8b3f982"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "d8c3ee343c95566bd4fa36709c702aa95875ee0ea16ed3090b1eba26bca85130"
+
+[[files]]
+file = "config/electrodynamics-common.toml"
+hash = "a776f4f5f6093ee2afc2c7043fdb71b07a0686be56d545d0404c1066add2f1a3"
+
+[[files]]
+file = "config/ftbchunks-client.snbt"
+hash = "997d59816832c7193ae0f3f656b89c684b6935f87d2df9a703f73a1845cb915a"
+
+[[files]]
+file = "config/getittogetherdrops-server.toml"
+hash = "3bc412d7aaf7557be4acd6e45c53def66e8849aa327081cab8064c65d3b5a279"
+
+[[files]]
+file = "config/gravestone-server.toml"
+hash = "3e24786bafda1a35e38f490da2a823a3d0af523bc22b3bbac9e7ba2cafc588b5"
+
+[[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
+
+[[files]]
+file = "config/iceandfire/iaf-common.json"
+hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "f5053219e00cfc22228f4beb838f6dec78bbd08cf04aab2207f68e324e7fc20f"
+
+[[files]]
+file = "config/legendary_monsters-common.toml"
+hash = "c9833d7cb5271fc0afb86b614eafbb61cebc97d5eef7f02a06a06ae6a58c18eb"
+
+[[files]]
+file = "config/memorysettings.json"
+hash = "2532cf7c335a22d9acae302f2caa3e39d639c03944a9e8897b66265bcf8e1afa"
+
+[[files]]
+file = "config/modern_industrialization-client.toml"
+hash = "c23d8d13defd0c5ddbdd4e0110f1ec40c15dd12a5ebadf2b854e8953b7d2986b"
+
+[[files]]
+file = "config/modern_industrialization-server.toml"
+hash = "45f41ebb459bb7b7f1186fa3d44a3f999f3d1eaf5d1b5f3190b4f541ee0e71e1"
+
+[[files]]
+file = "config/modern_industrialization-startup.toml"
+hash = "1793fd321f7e598a93d7d2c6331e9b936cd999e4a05cf9acd75087e8751beeb0"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "bef408f6ce7943765c51209420166a4ed9ac051d797566d4b227757c4ba6b1fd"
+
+[[files]]
+file = "config/mystcraft_reborn-common.toml"
+hash = "e81f89afca1c1d0bdd32fdba356172928451abe0d57e935e4357db50e3fefdfe"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/betternether/worldgen/configured_feature/nether_lapis_ore.json"
+hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/betternether/worldgen/configured_feature/nether_redstone_ore.json"
+hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/betternether/worldgen/configured_feature/nether_ruby_large_ore.json"
+hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/betternether/worldgen/configured_feature/nether_ruby_ore.json"
+hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/betternether/worldgen/configured_feature/nether_ruby_rare_ore.json"
+hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/betternether/worldgen/configured_feature/nether_ruby_soul_ore.json"
+hash = "ea7264356b67359e9f9951341e916a724554c903a6f36b06e7da9ce7b44bbebe"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/biodiesel.json"
+hash = "6b73dce1b3ad803c6376a836185538afe993a9f8855f79967ca20d663cfa3dbb"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/biofuel.json"
+hash = "3b9750146b5ec21088524f74fcf9624e7dd3030bc304e0df57a86234f354d616"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/creosote.json"
+hash = "2ad6cc6ae2762c9dc7392d73e5eaef7598e0ace1315ce7e09d78dc680ec9813b"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/crude_oil.json"
+hash = "e8df8df5cc61203ff2a8fe29fe27458d24fa4fa7090d6fcc0ff1175b73f0ce74"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/diesel.json"
+hash = "86895bc1b3215fdd3196edceb8c428349340dc76dc62fa7a21b112ab1f4f8cf5"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/ethanol.json"
+hash = "5e2f42117e5dbd2c83bbf4e4c7c5311e131447282910933ffa821f2c9ebc22d4"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/fuel.json"
+hash = "5630d1e74fe224056e423ae005931ea24c56e508828b4cf38af299cd4543dfa4"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/gasoline.json"
+hash = "76e9f34b17f4f8eb5a3486610bcaa62c864c4f8507af051a91ed8c03dcdd7e57"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/heavy_oil.json"
+hash = "9eb0e214968ef34f0297cf0dde4f2b8a001ed438fb597ee0600dbcff5e833f35"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/kerosene.json"
+hash = "d67bed7cccef7713bb6a1f5d6e3a4ecdf27ba3ada0b64003b8074dbfad8f6621"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/lpg.json"
+hash = "344e44c12e70584bb04e18fe6feacaebd9c20ba589b5de1e80932de9dda14cfb"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/lubricant.json"
+hash = "a055b46ad4b5dc5c92d056c678b604a31b1fd8e4af808f384b08fb7aa94d91c4"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/lubrication_oil.json"
+hash = "a055b46ad4b5dc5c92d056c678b604a31b1fd8e4af808f384b08fb7aa94d91c4"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/oil.json"
+hash = "b581d89eb236f96ca02b69d8649909033516cf3a8933d5c62f588d7b52770b63"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/c/tags/fluid/sulfuric_acid.json"
+hash = "dae8a9991aa82bc3ef570c7743f008ea1453c185d16ba1b12047d8b68a1ee3eb"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/create/neoforge/biome_modifier/zinc_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/createaddition/recipe/mixing/bioethanol.json"
+hash = "877f8d3ca075108cf108832d1fa7e4850f5e59e2da4d58494082a638f14b1e2a"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/createnuclear/neoforge/biome_modifier/lead_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/createnuclear/neoforge/biome_modifier/striated_ores_overworld.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/createnuclear/neoforge/biome_modifier/uranium_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_aluminum.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_chromium.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_fluorite.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_lead.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_lithium.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_monazite.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_niter.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_salt.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_silver.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_sulfur.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_tin.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_titanium.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/ore_uranium.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/orealuminum.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/orechromium.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/orefluorite.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/orelead.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/orelithium.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/oremonazite.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/oreniter.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/oresalt.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/oresilver.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/oresulfur.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/oretin.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/oretitanium.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/neoforge/biome_modifier/oreuranium.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_aluminum_from_dirty_aluminum.json"
+hash = "35df693c49fb96950618bf78e40e9d49ef14ecf6b2c3ad338b5a721f9d4722fa"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_chromium_from_dirty_chromium.json"
+hash = "8857e4ce35966c83b7327b01bbe97a555f6e9f27b74c03d0dff22b9dbad67fe2"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_copper_from_dirty_copper.json"
+hash = "639ed8bd6d3fea0e6a1523a90b1974e839da3762e2064412579f89d680efa23e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_gold_from_dirty_gold.json"
+hash = "959855cc29b7ff64b6e6f72ed442fa8e03bea8cb8be6373d99bbfbebf727ad62"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_iron_from_dirty_iron.json"
+hash = "71ae7bf8289ab68202568e8c779e66b3bfdb93bd4fabe58e98fe38479afbbff6"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_lead_from_dirty_lead.json"
+hash = "db2504cd55130d319fe746c6652a6dfea38ef9414d521d901e2d67b021e9c842"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_lithium_from_dirty_lithium.json"
+hash = "c31811fb9677cb895ae2badb68b63183f082c349b6b6d32aec7227f72dafeb41"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_molybdenum_from_dirty_molybdenum.json"
+hash = "f4931b7fbcdb8e85436ab0afad3d3eb3787e67339e5e86b63614c426558378a4"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_netherite_from_dirty_netherite.json"
+hash = "56947d8cc9c0b1751d65531d55eef9a7c2fc97be480616741c86c7759101fa2a"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_silver_from_dirty_silver.json"
+hash = "cc43acf9fb21de6863f67b02ef3f418796f38a8129583fe4b7d2e28eef23b36c"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_tin_from_dirty_tin.json"
+hash = "9bf19d2be970e86148ad335d4657fe0ce868f103b251d27d50d1464ba6f1feca"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_titanium_from_dirty_titanium.json"
+hash = "82a8ca7ff95be79f95ee2259466591faad6fbc07d7d4a9237c9a24e6fd700dc3"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/impure_vanadium_from_dirty_vanadium.json"
+hash = "633d027bdab01a070ef24cbff29b6b26e73d1129edd6df71fceddb00db1488ae"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/pure_copper_from_copper_sulfate.json"
+hash = "6d0e2c5ae0b3d5afc1d09386106f0edb3a00f0158790856c475f03424d94a5d7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/pure_gold_from_gold_sulfate.json"
+hash = "f5784f99c48c9ddfcb656aaf1db486b69cc46ad471f50852c37350838b542937"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/pure_iron_from_iron_sulfate.json"
+hash = "51548853f3050fc15bbe002007852a857740a4b7014854e9a906d2668d148d09"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/pure_lead_from_lead_sulfate.json"
+hash = "d93be7a6dbd1da931c23876825368320b3415d9c8956ea57bca8258f6b9e9435"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/pure_lithium_from_lithium_sulfate.json"
+hash = "ad7db2ce58c62acd6e7895f8f2bb6df42dc1d385bc9b2a6a483f4c0afaf2b7f6"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/pure_molybdenum_from_molybdenum_sulfate.json"
+hash = "f2b1bba97b3a5a20082b75afd0f63ff859a8992fc03d7ae6b1e258b7a1774316"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/pure_netherite_from_netherite_sulfate.json"
+hash = "9c212f588e7cbb6393b9b26224e976a5eeab238f8eaf59ed2fca85d1772c1187"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/pure_silver_from_silver_sulfate.json"
+hash = "079680fbe9ce2cdb0bf8891c07a799501b05f4d1c9b8becd9a598e87f7ca6c0b"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/pure_tin_from_tin_sulfate.json"
+hash = "275ec12b685c852bb1dca3b9de9d8f1e5b8db64cfd1972e67e228680dd67ed0d"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/chemicalreactor/pure_vanadium_from_vanadium_sulfate.json"
+hash = "c8da4e28aed0312759d42fed0951f2e6b1b86194dfaa6f70c13b3a52f30aff65"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/fluiditem2fluid/chemical_mixer/sulfuric_acid.json"
+hash = "31eaa55b71d5aaea487bab2fdad1ef0cd22acaf3fb99430d85061b5ca0a6ead0"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/fluiditem2fluid/fermentation_plant/ethanol_from_carrots.json"
+hash = "bc4cf5c083ba67983a37f8d04f3e5aebb0598314f7a438d416077a4ea3f6a667"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/fluiditem2fluid/fermentation_plant/ethanol_from_melon_slices.json"
+hash = "65b6d70c1fd07b4a381749bd76ff8d6f67862c9507c1e4b931789815b8ef3fc8"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/fluiditem2fluid/fermentation_plant/ethanol_from_mushrooms.json"
+hash = "a4eb3e06ed376e2d4bc715a96068643995eb086465cbe7a19c32bddc57af37a4"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/fluiditem2fluid/fermentation_plant/ethanol_from_potatos.json"
+hash = "051b5c42dc66d32c9fd5fa754aa484369eb1e7a365332b0c92ad07ec8b78a232"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/fluiditem2fluid/fermentation_plant/ethanol_from_pumpkins.json"
+hash = "3903ef182812826e894109a0d33c4299f6b83b42383b659af4591b02f61f10a6"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/fluiditem2fluid/fermentation_plant/ethanol_from_seeds.json"
+hash = "473960a22a0fbff8a70742032736d388573f96456f568b579ab89afab2f6d40d"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/fluiditem2fluid/fermentation_plant/ethanol_from_sugar_cane.json"
+hash = "9a37912bc4a6376c4baafc4d878113ff2d676e068cff53dd2011d22b33739235"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/electrodynamics/recipe/fluiditem2fluid/fermentation_plant/ethanol_from_wheat.json"
+hash = "f4ce1a7a32deff1697c316ea52f74af985212f29d76541eb9ce97b245b33bfee"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/extended_industrialization/recipe/npk_processing/phosphoric_acid.json"
+hash = "877c24fd387356703299b26566ec2a2a0afa410f95c6e0ecf08f7274fa8265f1"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/farmersdelight/recipe/integration/immersiveengineering/fermenter/tomato.json"
+hash = "7f5c9c1998329feab3bf9a82c4fba53737424c312795e1ac7c03738e01c19606"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/forgeeverything/neoforge/biome_modifier/README.md"
+hash = "8f0e39823a45073fa536c2fe2dfe0f68fa2762b7e6768a069ec619835c151404"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/forgeeverything/recipe/README.md"
+hash = "580692cdd6e6cc074824c1b925e4eeb28ca63d146194445acdc697f90bed1f77"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/forgeeverything/recipe/uraninite_raw_from_raw_uranium.json"
+hash = "1ddf6e6c6e8ec51f7cdcec3d1c8f59641fc3f146efad8a2b4d3b9ef43140f32a"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/forgeeverything/recipes/README.md"
+hash = "4bc0834bcff3dee90feb92072d3ddd22634aae5d22fceeb1f6f54cef2f040260"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/forgeeverything/structures/README.md"
+hash = "04af975b9d27fe8212921f96e5b7b3a8045cf0aa138ddcdfe1c55069b58906cf"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/iceandfire/neoforge/biome_modifier/silver_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/neoforge/biome_modifier/bauxite.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/neoforge/biome_modifier/deep_nickel.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/neoforge/biome_modifier/lead.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/neoforge/biome_modifier/nickel.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/neoforge/biome_modifier/silver.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/neoforge/biome_modifier/uranium.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/recipe/fermenter/apple.json"
+hash = "7022974b039392f4e905075f83809bb208991e54079986f3c9027c6feb083b60"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/recipe/fermenter/beetroot.json"
+hash = "acff101844ce4d4285d64e8bdc684f53771f356800050a860942a91351f897dc"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/recipe/fermenter/glow_berries.json"
+hash = "49dd6924a510ed197c58218c1e5d1ddb22a0970acc0126fdebd29edc1086045c"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/recipe/fermenter/honey.json"
+hash = "7f5aed3b8d5a3df6b237c889f43c7571ffd79fa50a7b198bd0300129aad28935"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/recipe/fermenter/melon_slice.json"
+hash = "d2a5c66be37c983d1a0e52d0a833eb34045ef27059f7de4ab1b6461ae6f92b91"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/recipe/fermenter/potato.json"
+hash = "4569e059fcb4846b667cb7421d46d9b632f1e16e3ea49921b4cae42884f4193b"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/recipe/fermenter/sugar_cane.json"
+hash = "b40fd88b8d94408e6e46b0c9736c3e0a77625c1724b6cba803b3d706fee14ce4"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/recipe/fermenter/sweet_berries.json"
+hash = "252833b9f49e2e47a6510f77296a1d16613a1253e83ee7b5643307b33622c1d3"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/immersiveengineering/recipe/refinery/biodiesel.json"
+hash = "ae72e281a3380691623114f584d5ca663e4e2e17130ae628c46293736790fcc1"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/industrialforegoing/recipe/dissolution_chamber/efficiency_addon_6.json"
+hash = "2f59748cc15b5cfaa660d9c0ae1ff0620c71687a32302d78fa32939724403f16"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/industrialforegoing/recipe/dissolution_chamber/processing_addon_6.json"
+hash = "74abf4d278fbbcd2a6753302c51d4e21fd1c2629e36c408f086ac3fec3e16ca6"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/industrialforegoing/recipe/dissolution_chamber/speed_addon_6.json"
+hash = "8b75fbc93934b9fcfe2ec2d807cffe4883ac51ff4b21676aeff413f90030f047"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/industrialforegoing/recipe/laser_drill_fluid/oil.json"
+hash = "5efcd584a1aadbd7901bbcaf4bf324b17f81af0862b041d67511f053a82e7bac"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/industrialization_overdrive/recipe/pyrolyse_oven/charcoal_from_logs.json"
+hash = "3885a8ab0252c867371ceed0cd54704cb48f139ef6ca881c9286e7ec3eb379cc"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/fluorite.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/lead.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/ore_fluorite_buried.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/ore_fluorite_normal.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/ore_lead_normal.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/ore_osmium_middle.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/ore_osmium_small.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/ore_osmium_upper.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/ore_tin_large.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/ore_tin_small.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/ore_uranium_buried.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/ore_uranium_small.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/salt.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/tin.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/neoforge/biome_modifier/uranium.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/mekanism/recipe/rotary/sulfuric_acid.json"
+hash = "00580523d480d41ba32a15ea59e38d550436f14cbab18ed572518291dc536d59"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/data_maps/fluid/fluid_fuels.json"
+hash = "dfb745c1b9ec06a79316dc6f864fccb416589b425fe754573000b27bdca42ccb"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/bauxite_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_bauxite.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_lead.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_monazite.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_nickel.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_salt.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_tin.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_tungsten.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/deepslate_ore_generator_uranium.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/iridium_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/lead_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/monazite_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/nickel_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/ore_generator_bauxite.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/ore_generator_lead.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/ore_generator_monazite.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/ore_generator_nickel.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/ore_generator_salt.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/ore_generator_tin.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/ore_generator_tungsten.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/ore_generator_uranium.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/platinum_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/salt_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/tin_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/titanium_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/tungsten_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/neoforge/biome_modifier/uranium_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/planks/acacia.json"
+hash = "b480f54404180447a27b95446464e10c01bce5e032b27b09f1bb90eed97f57cd"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/planks/birch.json"
+hash = "841423af67df77a9773c714a1fa669f47b0c428b4d3bb963760358637a245def"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/planks/cherry.json"
+hash = "0585e6f7905f853719b79d87706874b1ea531cd0ea4cfaa00805a871bc36d158"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/planks/crimson.json"
+hash = "e7aef3aac343ece46984b2dcffc7059098c6931bba40718f172272716f1f545d"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/planks/dark_oak.json"
+hash = "1a4130a9d5c64c6f20a5fff92edbf04bbdd99bc70d77c623fe8c43544cf439c4"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/planks/jungle.json"
+hash = "e58cac8afac391cdbc5745959afc1a0766c48503e203d960c88cd689ad4f3cfd"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/planks/mangrove.json"
+hash = "e0bf68ca2c6c3ffd94de5c5b012be7436848fd5386fcad70404d816080cb8c20"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/planks/oak.json"
+hash = "bfc5fe40e3053b5df55a882a6f52d981fbe0521d45832fa429554a472e7f61fb"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/planks/spruce.json"
+hash = "1891c68961b092310c56d6f2ccfcfac147c1e6ccf1700a233c2f2ca6eed465ae"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/planks/warped.json"
+hash = "5e91b71265dcea3117716fe3cf1733bb5fcefd0f9f0bdeb13cb12acac6869ca1"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/slabs/acacia.json"
+hash = "417d63b8b0a18d96ddc3fd480c342385bbe7708c1a2a332a93db74e84cd85267"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/slabs/birch.json"
+hash = "9179f3522d466f6cb0447a105c207dd41fbf11fa5eaa25c3514b47c0fa940c3e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/slabs/cherry.json"
+hash = "752ab8adb3a5ca1230a134c2bb1b2be01dec766ae2b0f4bb27aafc077d3061e1"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/slabs/crimson.json"
+hash = "7292664b994f1826078766a6c011311262ee6177d0fc2afd03469127e7f2c968"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/slabs/dark_oak.json"
+hash = "5006b23644a17e34017aad75b1145ae177cf1f9e33d9393865f3e1f85a82bc8f"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/slabs/jungle.json"
+hash = "45724b333da2d257b44c16711969c49355d195d1f14b1f92486fd32ca97c04db"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/slabs/mangrove.json"
+hash = "465736bb8fe5503b969f70321b631b953aaad105aef842b180765a87f16b3cce"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/slabs/oak.json"
+hash = "cf9cd4016247fabda79e0400de82f3baf40bd946da3528141dd3c22123fb5b5e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/slabs/spruce.json"
+hash = "0a9e731108a6aa16a87309f5c6dd9191da6dd6e00ce36923c6027c0c6a4db1b3"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/slabs/warped.json"
+hash = "f35ef8d4b4570daff04fefcebfb6e70f99537062e7009b973961e2f7a39ed00c"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped/acacia.json"
+hash = "e65751fcdd99ddb9a8ebedd3539e2b76884a1ef4665987f4132bdf3be3053ff6"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped/birch.json"
+hash = "9ee197761e61ff21b8d5a3ae9042ff0b351604a8e63246bec0807336c162c11b"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped/cherry.json"
+hash = "af44f973c48d46c04a43f2eaf1eb3998fc30c6c87f54aa6925fd27b130ecdfbd"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped/crimson.json"
+hash = "6c5a7be3889913aa4dde4bb125c7a2045e52c8081bedaea89ba4f5e6f407a8c0"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped/dark_oak.json"
+hash = "b1ad6c77d9c76109b1778eb2ad8efb8fbe04e5e79a0ba8875d465a7ba009c79c"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped/jungle.json"
+hash = "335ced608ee63c119bbe3c42a7247f0e2c8bf2466b43b8382620423cd4ad8943"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped/mangrove.json"
+hash = "4afc437e310ae2d28c6246f4021230d5e40f8e78ce78b94db1216327b7c6f87c"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped/oak.json"
+hash = "09442fee4d4b13d1c7db49b3485db4c13d7570005b9cc8573faee9c58673a3df"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped/spruce.json"
+hash = "7cdd8481691260379ac6c1ada778e218b9757dad29362011cbb2fce915c7aef7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped/warped.json"
+hash = "b671b11ec4756c04ffae8a7a23892f99bbc39c50bb1dfd8cea0a05d3eaeb2227"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped_wood/acacia.json"
+hash = "e08bdccceba4fec684048864c0674c15d396b9794b7939dba261be52df5b2cd6"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped_wood/birch.json"
+hash = "273bc412e732cb194bbf89ec53d0f5d66f96115c205ddf6d2f7fe71a5a78e4df"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped_wood/cherry.json"
+hash = "f9b93ce50890b5e25d0f44defd9b16a715f34280f1086304262cb64bbe005147"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped_wood/crimson.json"
+hash = "ed3f58c2288aa7b07672ba3f8243a8e08c98e926f040f626bc15bf96ef427bea"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped_wood/dark_oak.json"
+hash = "a4a27a034e0e972cc85426d72a0156e4c0f1ab6aea51dc59006032183b79636c"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped_wood/jungle.json"
+hash = "d25d333667318d57df8ae939c8d3cb220bc7103eeb16b5d6bc960d5d0ff24164"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped_wood/mangrove.json"
+hash = "868c053800fcf8631fb0a5fa280dd1536128a231fbc76b9a577dfd318edf8f0e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped_wood/oak.json"
+hash = "3639901f6566b4d206c97270a2c38294fe3e9c145f4d7a572d747f7fad00a3f2"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped_wood/spruce.json"
+hash = "e84a552be63338867ab1e1a5160586f8ccf642629a23d0d9d387debc274d618e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/cutting_machine/stripped_wood/warped.json"
+hash = "a9c8aaf87a8fadf8acd243a2925cda84b401994164b5573acb139edfc0254e88"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/black/cutting_machine/carpet.json"
+hash = "2a55a38852ba712b9cca102c4325e306db22952df68b52e43b3c1a4573d0b554"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/black/cutting_machine/glass_pane.json"
+hash = "2600efd0036d4c10fd9e1138c4d657b2634518b4750326ea4bd2284e8d90a29a"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/blue/cutting_machine/carpet.json"
+hash = "a8de4c58bbd9f86a31624677e8df73e781b5191e3522bc791ad6ff66babdb973"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/blue/cutting_machine/glass_pane.json"
+hash = "9cab0819e71fa6420d029b2d0a26f8861ae90692b7210ebe1f04cecfadfc10eb"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/brown/cutting_machine/carpet.json"
+hash = "e95e4634ba3715eed117445c0374dcdda10d3e6014c8933cc361792fd22242b3"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/brown/cutting_machine/glass_pane.json"
+hash = "a601105f95e06e5b86ca7b36d92a8363660e451aa8042649decc488b064f3688"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/cyan/cutting_machine/carpet.json"
+hash = "5aa08715cb03654a19c04628b8909c2a7b2c9dc13e3097686bdfc0f61d5a7997"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/cyan/cutting_machine/glass_pane.json"
+hash = "39aeb0b28d0ede7d588e2420ab57827e31b2b7ba23441c9da5d26d73dcc28e2f"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/gray/cutting_machine/carpet.json"
+hash = "73dc5e6064981545ea3c344187d8de636960a4ee8e896fe8bcd2fe04b42e0153"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/gray/cutting_machine/glass_pane.json"
+hash = "a21c6946ec2c6ecebc1d20946e470441c85bd14fc24415e23a5b377b9a514a34"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/green/cutting_machine/carpet.json"
+hash = "f4d5e11d6da3e043f46ed58138c77be6f7fc44d0453e5a5759c4003a5c225b44"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/green/cutting_machine/glass_pane.json"
+hash = "f6c1994b8c0dab05b72a3fcfb83fda5bb3b9fa160f019adcef361be687257cfa"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/light_blue/cutting_machine/carpet.json"
+hash = "083bba096aa39eb430bbc8a2307e93cae3cf129285a78b3eaa0924603d3d02ad"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/light_blue/cutting_machine/glass_pane.json"
+hash = "326e5106beea81c0efb92fba0a2b8f53892c2b6743dd1db7018f68c2adf1feb5"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/light_gray/cutting_machine/carpet.json"
+hash = "acdf198ee46b1f0da3788ea4890b5fb72b277c40cb639bd17de2b68e5fcdbeed"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/light_gray/cutting_machine/glass_pane.json"
+hash = "d76f144a52297aa455956ceb689edc9f487c3471de68d8a6d70885e16723e50c"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/lime/cutting_machine/carpet.json"
+hash = "d8435b7c9680159743265205a017f9498aa21c6f734b3f5f3d4b0793488d28fd"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/lime/cutting_machine/glass_pane.json"
+hash = "f05a65d8997699b075bb67d400695f8a8458f4929dd674616fc7b6003b105c8e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/magenta/cutting_machine/carpet.json"
+hash = "cc80a81443ecbeb0f79eb5674492e54db4317122e4cf3f1e1b1d8f6326bda84f"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/magenta/cutting_machine/glass_pane.json"
+hash = "87fad03fd926eea96e75ebf12dc992608e4c9d8b3980a90119a75b87f2d3d873"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/orange/cutting_machine/carpet.json"
+hash = "d0d344b1e34d76b1b59d78afa5622231f6085cc0e3a17c2ca1858601d2749344"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/orange/cutting_machine/glass_pane.json"
+hash = "ce17aaefbb127aabe63183e8491a49dae854ed56440258322f871c67afa7dfe5"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/pink/cutting_machine/carpet.json"
+hash = "76ba1640567fe90f67ffff7c72a656038f2620decc197fface12b500a2fb7561"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/pink/cutting_machine/glass_pane.json"
+hash = "13f24cddb606b64556881cef2ea395f4fe4b2b88513ca3b03e46f1d15d9103a8"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/purple/cutting_machine/carpet.json"
+hash = "e13aa1ae7a414e007755c135b188569ef0d2d49b39c5aa0055e44f90db30cc51"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/purple/cutting_machine/glass_pane.json"
+hash = "60e72700e6d31f5807a488445250c7fec6db934dd2f8f0899791825a07c2ec4a"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/red/cutting_machine/carpet.json"
+hash = "7d17992c1b35e9787892a141de8c743a72db6ce11483909df0cf5e16635618c3"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/red/cutting_machine/glass_pane.json"
+hash = "2d8e4ddaf28e439b368d0f1ad6158b348cf7d84f55ac92fae9ceca319ec25c0e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/white/cutting_machine/carpet.json"
+hash = "261d6a958b7d99139ffac8ea2c4f131a1b49a1860d95437d10f9f0e3c63211cd"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/white/cutting_machine/glass_pane.json"
+hash = "f1c2961125fcf04478f0917ac883bc383bb9c9a53a9004a9925c3407f514d771"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/yellow/cutting_machine/carpet.json"
+hash = "ba8e529fccb8a3162464ac80ea3c60f72b907963b59fe3d92f5810cc70becb67"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/dyes/yellow/cutting_machine/glass_pane.json"
+hash = "437d382a6a6feba3afb9f0ffdb3f68fd9b6a1bbfa1de2293245c3f89755ec292"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/electric_age/component/cutting_machine/silicon_waffer.json"
+hash = "1c2fa69ad8ddbb60dfb9eeffbf2598aa0060b64dd4ce3ca24de06ff48e8f99e5"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/aluminum/cutting_machine/double_ingot.json"
+hash = "5f9d761fbbde108d0e51c44cc8011cbe2a68f16e470f01ede6372b55ac1c57b0"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/aluminum/cutting_machine/main.json"
+hash = "99136be18147fb7d915360af727cf1e2f8531f65bc3ab77a7736ee62614e3607"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/aluminum/cutting_machine/rod.json"
+hash = "861531d5e9a79f1a82e861e4e74e530a17e9103cfaeea6c36c9fc37f405eba62"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/bronze/cutting_machine/double_ingot.json"
+hash = "8d45deeba0727e002f1d109e0f4301f8ab65cdae4fe7b2451c34c91a5d8f4a0c"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/bronze/cutting_machine/main.json"
+hash = "e15896281d35ad5198f332b06aa0c4d1204764636fbd58cf1a23e6156529213c"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/bronze/cutting_machine/rod.json"
+hash = "49ea1f8b1099da0d3b72055d1ea6d35c7695dac55e2f113b2a04821fe5364237"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/cadmium/cutting_machine/double_ingot.json"
+hash = "4143b4bb1ec9aaae2c06082a4780db9a6e953a49acedd5aad2993fe14317ba74"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/cadmium/cutting_machine/main.json"
+hash = "e1e754ff3e0f63b18938517a5e4ff3fbe20d613eb4b155a3edd4e3d86c11bdcd"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/centrifuge/wax.json"
+hash = "deffb794d2413c604e1e7d9556ae3233f81719e284d093defccae543fbd535ce"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/chemical_reactor/manganese_sulfuric_solution.json"
+hash = "89ac2b3690edbe4f4cd1997037b988a9b06c4ff69410322ec2421273a873e3ea"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/chemical_reactor/platinum_sulfuric_solution.json"
+hash = "bb4732377adc73fb3398e7398dae55404cbe6ab3fd2c569ad268094980ed7068"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/chemical_reactor/sulfuric_acid.json"
+hash = "f36cf6578afece7996dba5399385dbc621b6b608c3db15fe05dbd5a1f6d8c4b6"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/coke_oven/coke.json"
+hash = "d4b75f5ed7433372567fb9aefbbd8a56b6d71bb6995076b019bbd400226b0e8e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/coke_oven/coke_dust.json"
+hash = "973be3d539f9e955bc58129928d0bd57e7a65c7841f37e9dd342a3ea2270112d"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/copper/cutting_machine/double_ingot.json"
+hash = "2f3170760097fb232d2259f637baba8e96fb2f01af3156d51fe0f76d51d3bafb"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/copper/cutting_machine/main.json"
+hash = "0000fa6891f72496c1aba2697f1375afe049e5f23978500e3565cd9ac581214d"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/copper/cutting_machine/rod.json"
+hash = "5c25238ea6ab93b17142e6826862159166b66fa1ed4a972e7c253923dd01e9b6"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/electrolyzer/manganese_tiny_dust.json"
+hash = "4fc611fc7a1ea7cde1ac35352ae390cd76e300eaab7078b45e47120e436aaa59"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/electrolyzer/platinum_tiny_dust.json"
+hash = "548cff0516437da6515b33aa86636af89624af1a8645856bfcc6f25c71e62cee"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/electrolyzer/sulfuric_acid.json"
+hash = "cc8ce3f901bc24845acf1930d13b6b8b0b979f1c902ce663c910afaa4a348684"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/gold/cutting_machine/double_ingot.json"
+hash = "7b448a9aaa2d951bfd46b00d0c20e6da284b0d93a772bf22500d7adffdb18af9"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/gold/cutting_machine/main.json"
+hash = "1fc41805c35e9c71dfec3b824116cb9c7fbea50e99ed9d3a225c41de2fecc7be"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/gold/cutting_machine/rod.json"
+hash = "2bd1dcc81f2409140ca73d48be53eb2cdff9827f1fcccd12ec752642e726f8f6"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/he_mox/cutting_machine/main.json"
+hash = "6077d8b6801dd24fec00ee2d69ba03f3167c7e9cbee6b406b8169c5710439f5e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/he_uranium/cutting_machine/main.json"
+hash = "a1be87887e3b1d9c5faa57a77bf702ffcb28b4727e519ffacb02dd6d4bb395d5"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/invar/cutting_machine/double_ingot.json"
+hash = "c53db320c24dd5222477f1df2ebb1c3e7297b9dbf38873c648f79010ba33c0e2"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/invar/cutting_machine/main.json"
+hash = "308b9280f59fa05bc4986b848e2081e3e653cfa1aecb97314639d7e586335965"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/invar/cutting_machine/rod.json"
+hash = "d8d22a8b59483a1ad9d2793485be1c6f9d71e80d79615af69765afb3c8d217a8"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/iron/cutting_machine/double_ingot.json"
+hash = "bbebccf29a39c04ea176575a09281623ec3213a858cd8041db361a946f295cfa"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/iron/cutting_machine/main.json"
+hash = "4d8fd3ad697910bd7e3f84958eafc1ded8da5c154201e3ab0a96d0a58e447af7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/iron/cutting_machine/rod.json"
+hash = "ea473fdfad64d29b9dab26c52f38fa97ec955a0a84f98d6975c8dbc90fb88d10"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/le_mox/cutting_machine/main.json"
+hash = "5c98079edf27c10b2f70bb682d51200b657db80571f10d784170bdef930f98ee"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/le_uranium/cutting_machine/main.json"
+hash = "f16a69bacf53ee5e039968dff79d56ca07729194a9fccbfefc2671f8e6241985"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/mixer/lubricant.json"
+hash = "0a5c443d3e75edba1a7cfab0e86dad34a97ca038338fd5d913dc129a493dfb6b"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/mixer/lubricant_oil.json"
+hash = "4fe0e174e031d5c6395cbf62b0d6788019f5821262d26d71de2c38590226ea84"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/stainless_steel/cutting_machine/double_ingot.json"
+hash = "ba2c2e9106cce7cee31c81284e67d0dd7b1d9b55f724bd961136c0f016933bf3"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/stainless_steel/cutting_machine/main.json"
+hash = "7b358b696e4b3bc65f903b97e80f3b8e26afbd22c2aaa20fceafb248b0011b0a"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/stainless_steel/cutting_machine/rod.json"
+hash = "2e377ddc0cb6cdb10e4d9638d8967b03e67fa4740a48093e9bd308c604e6ea25"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/steel/cutting_machine/double_ingot.json"
+hash = "62c962da817784e8a82af5d6de57d2964fa5de458415020f18e03798d7be88a1"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/steel/cutting_machine/main.json"
+hash = "ec16e85f872f4b4b4aa7640fab3303ee491e0327fef7e8edc1246dad80266d0c"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/steel/cutting_machine/rod.json"
+hash = "f3d4431286067f82f3d4ab043d8c068b76bd265b4a3f4c7f68334929b9c46e08"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/tin/cutting_machine/double_ingot.json"
+hash = "f248b427e2014cfe475a2a111b8f652065df3e761de4493595898821fd02a7e5"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/tin/cutting_machine/main.json"
+hash = "74348f47247324bc0fdbe06bc4f2d9c123622e1b560c412d01c83298636fbe16"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/tin/cutting_machine/rod.json"
+hash = "aa1578dd3bf5d82c64061e9a64cfeb8647724e138e76cb8fa4ee9fb8dce33d7a"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/titanium/cutting_machine/double_ingot.json"
+hash = "4d04ad6491548b088349e8b42b3f1523835b9eb9f8066a0b997869edfe7e6ec3"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/titanium/cutting_machine/main.json"
+hash = "e22cdd820f41ffe9fc81452f52df14f02e8463d9132a05cfa55cdc7f851822ed"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/titanium/cutting_machine/rod.json"
+hash = "dbc25c4dcfcb7a6ab91be64c7e5ee43f0a2497f46ce9b2ef96203d1fa4d108df"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/materials/uranium/cutting_machine/main.json"
+hash = "36b8024a7e80941a45d03248f8068cbcae9c61028f633435bdd9617cc589afe2"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/oil/chemical_reactor/ethanol_to_butadiene.json"
+hash = "3328f8d0383f7a3b69a373c4375a302a3576149d0e1265f5711057afa500b465"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/oil/chemical_reactor/ethanol_to_diethyl_ether.json"
+hash = "3577b6d196e9da73099495edbaae46a696ddb72daa0939ec13412a5bad93b753"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/oil/chemical_reactor/ethanol_to_ethylene.json"
+hash = "e38339086f1aed4b676c6cfa26c9253baa691dd4fd70aaf2dc67d00503d2e119"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/oil/chemical_reactor/ethylene_to_ethanol.json"
+hash = "bf696ec7a106df6481088918dd6933f55bb9e640f8794b2f157a90280635a9f1"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/oil/chemical_reactor/plant_oil_to_raw_biodiesel.json"
+hash = "a3eefe819231cb7615b8d38428b4e585c8b2f72e24aca7eeb76a7f055feacacb"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/oil/chemical_reactor/raw_biodiesel_to_biodiesel.json"
+hash = "ef48b8792652baa509a7eb1402a4e110790edef75278c3793bae5c43f3b5fc3a"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/oil/crude_oil.json"
+hash = "3bede47ddbd76676db09bce34735de41b33ccc578d7f32823ffa6c57da6ff57a"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/oil/distillation/ethanol_from_sugar.json"
+hash = "de137e972d23151d6b1c80365aa1c796d9d17a1992650ca2c5fbfccdc236e7b5"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/oil/mixer/diesel.json"
+hash = "c822ceed3339814a5096c70c5b45a32464c1105dc8d0b8680bd587faa21fa98e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/oil/mixer/diethyl_ether_biodiesel_boost.json"
+hash = "8222fd033bdc3221f2a517df0ff96eb4e941ec1607b21e0c54c2928b2b572ac4"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/oil/mixer/diethyl_ether_diesel_boost.json"
+hash = "2f49f09ba278f58a28e0cea8ef038bc15f9fbf19b735c7827cbd1806f9e7a31a"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/oil/mixer/lubricant_from_plant_oil.json"
+hash = "f9e34761a1e11ba3973131cb7cb489797d43668070bac972868609404cf57eba"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/petrochem/distillation/crude_oil_0.json"
+hash = "24d49f4f6979a64e16c54ae02fd9ef2b9166b9f492deac42118d4d0d6d6caa16"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/petrochem/distillation/crude_oil_1.json"
+hash = "f0de59cc5ebe1372da3549223ba055cda3300c2d86915bc33fb28a9051d9f390"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/petrochem/distillation/crude_oil_2.json"
+hash = "549210f475c50f969e162cf48392aaf96e13c3d912e251634d16864d1dcbdb64"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/petrochem/distillation/crude_oil_full.json"
+hash = "4a2aa145f377acb751830147ad599d34d807d05c11111a0dfc34c673cc852aaf"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/petrochem/sulfuric_purification/crude_oil.json"
+hash = "701b580f285129f6f51653847dbf785874474634a367a2df9361ddf117003467"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/petrochem/sulfuric_purification/heavy_fuel.json"
+hash = "6ece13188091b9c54c9047fc5405acd380013e4afc86c56d409637a43ee2d474"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/petrochem/sulfuric_purification/light_fuel.json"
+hash = "879d7cd5add5dc388b13e1f06353a18c7641eb2cd18b646f27fb3d51af453328"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/petrochem/sulfuric_purification/naphtha.json"
+hash = "06ae0e48eab69a8b5c331b8ddb4bb6ba318aedcad2a49b5e6536448e64a35c6d"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/vanilla_recipes/cutting_machine/glass_panes.json"
+hash = "765132817d4c62ab4803645bf884a11b9cbb128d0ee616d9ef13aa00b5a450f4"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/modern_industrialization/recipe/vanilla_recipes/cutting_machine/sticks.json"
+hash = "0edab138a5ebdad60685d095ac9b6b6c832de6f6ca8e669d3fb4695485f233e7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/occultism/neoforge/biome_modifier/add_ore_silver.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/occultism/neoforge/biome_modifier/add_ore_silver_deepslate.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/neoforge/biome_modifier/nickel_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/neoforge/biome_modifier/oil_spring.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/neoforge/biome_modifier/oil_spring_desert.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/neoforge/biome_modifier/ore_nickel.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/neoforge/biome_modifier/ore_platinum.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/neoforge/biome_modifier/ore_platinum_end.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/neoforge/biome_modifier/platinum_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/neoforge/biome_modifier/uranium_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/neoforge/biome_modifier/uranium_patch.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/biofuel.json"
+hash = "3a4225f86a7bbf91c108b8a7a422fe34ed1f76c2845a8fccf4b02e0d6fd474d6"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/clumpacid/copper.json"
+hash = "cfc5b89b1d5b416416a57b3c623d189b39d766d39568746a474b926caab5b0e6"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/clumpacid/gold.json"
+hash = "3cfa97e5119c15e2e8873b03ef0cb83a35f3c7f9f048d75a59fd5f362258fd40"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/clumpacid/iron.json"
+hash = "2f2aeb21b1864f8d2dad4c7b91778a956b7c8a0843d6ce491cfa4e6313d40523"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/clumpacid/nickel.json"
+hash = "58329e93329e34ef9ce036f995dd9cbfe9b0d0c2785f4ab4c37b3b84d2bd31ff"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/clumpacid/platinum.json"
+hash = "b1c61d14f8a22f25c084ed4115cecdf4ebe5f23099dc33aefaf17b7aa1f2a022"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/compat/create/clumpacid/zinc.json"
+hash = "304f60047b9ecc9c1c56bdcaa2a1811aacbb083d4410834471fb49df07a7b467"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/compat/immersiveengineering/treated_planks.json"
+hash = "c9b1d07eb6b71e8d5cd3c604df737a580c160a74ecb34737e46a49803aad023a"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/compat/industrialforegoing/turbofuel.json"
+hash = "b2eb414b9cb87be7d998f4d3fdcc8e7cf91052e78cb63f47507c8806edcb7750"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/compat/mekanism/clumpacid/lead.json"
+hash = "c5d8de5717a8c1830d60ee8590fc471fd4f59963d6ae8886a052d8c810dc57fa"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/compat/mekanism/clumpacid/osmium.json"
+hash = "499d24c800ebcc56f0f45786de368fbfe23e897e7b75c77e9090bfbdadd4a120"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/compat/mekanism/clumpacid/tin.json"
+hash = "b3d347941845598191aabbc5dc9fdb149c338b209a659bb964a8d007d3336e95"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/centrifuge/fluid/compat/pneumaticcraft/fuel.json"
+hash = "07113b6298ceffa756b47b92d7260f76611b1ef894bab8135d23f9ef75c7e247"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/compat/actuallyadditions/fuel/biofuel.json"
+hash = "a804a99279704fc53a2353c5dc5d16fddd4e612d02a5c4cf004c431bbf598f8f"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/compat/actuallyadditions/pressing/biomass.json"
+hash = "14fe4a7b30525f2ba30633f31722bbc54c57b555beae14b360ea187c30d71ff1"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/compat/productivemetalworks/alloying/biosteel.json"
+hash = "d4c288c25b6b287f8b0145b689ed69f1ad17c687db443236a82a0f91d8d0359d"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/compat/productivemetalworks/alloying/turbofuel.json"
+hash = "d042d4d83d4d2a34f680cfe2662133e05c8c092871065887ebde731837f9cf12"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/compat/productivemetalworks/casting/block/biomass.json"
+hash = "d75f5570f1b8b83d16ce1e86d4b907bdaefbeaeec1e9997071956d596c24524d"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/compat/productivemetalworks/casting/bucket/biofuel.json"
+hash = "a580ec495b226fee60f05b139de3c26fa5b357c8991b363d15ec073d1fe69080"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/compat/productivemetalworks/casting/glob/biomass.json"
+hash = "e8e6a85a32357d7ee3778dbb6db1f659e23059a52e06a89fd7835550a56a3df8"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/compat/productivemetalworks/melting/block/bio.json"
+hash = "f0c1783ae6196ad5f5c6a2d34228e68358a7de7054cefb039504a004a97c3757"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/compat/productivemetalworks/melting/glob/bio.json"
+hash = "b117d47765d5d8acd2fd6e389cd14ee82b639fe60d0e799817988d09c5b28d3e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/fuelgen/compat/immersiveengineering/biodiesel.json"
+hash = "fe926d172ae0e115b2d1db75dd8ebec455ef57b0689b3627b51d618c36b55be7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/fuelgen/compat/industrialforegoing/biofuel.json"
+hash = "0b469f5774fd9d992fd86a0739a2a9f4b6ac5d352dc0511ac15ae3e5d47500d2"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/fuelgen/heavyoil.json"
+hash = "48d7e53bf85ac48a4517233ec86894463c674fa740e5e32f8b2480aff7a83a52"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/refinery/biodiesel.json"
+hash = "3dc6626f8a912e3bbf67e06e29582c63a2e07df81c032082740f0480bf0f2722"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/refinery/heavyoil.json"
+hash = "0f6ec4b7c8f05da968079fbd57e2857939f9cf9f9c2152d8e24ab9068b63b287"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/refinery/lava.json"
+hash = "abf58b9ca81803a2e3cdef4cdc424a2b6f034dbfc6dc05e62b87d9499cf29ed2"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/refinery/lavaalt.json"
+hash = "f1ee3b9d6446d89cdfd3dded551bc68cb38680644cd0ab3217a950f069ec258c"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/refinery/oilalt.json"
+hash = "0e77c012825ffb1425675b64ccf016a50c4f42a6e5eb47ed4fb2426760339608"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/recipe/refinery/oilbase.json"
+hash = "e1b250fe05f776752c8855aba2ef1c510a092550a35b2ed8826e45ebb1b250cd"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/worldgen/configured_feature/resource_node_common.json"
+hash = "460e24173ada33f95a8cbbb692babd47d27cb36867bca902dafa90714a353426"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/oritech/worldgen/configured_feature/resource_node_rare.json"
+hash = "fc082c25c52dc2b76885fb569a0b90ea04aeceae7783f4f05f593bc2bed47e56"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/neoforge/biome_modifier/oil_lake_surface.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/neoforge/biome_modifier/oil_lake_underground.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/amadron/diesel_to_emerald.json"
+hash = "8f30595440910e2b3489aea60e763bfda03c791510758ce27fe4a0c444d5cf18"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/amadron/emerald_to_lubricant.json"
+hash = "c8d7160aa95ed18317cc90ea9d7f9c0b6440c6216aa62865b2fe7cc33adff7a2"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/amadron/emerald_to_oil.json"
+hash = "bd62ce8aad9d0cb0cfbd6a86dabfe1e528ff241d1221ea1a2531986b63603bd9"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/amadron/gasoline_to_emerald.json"
+hash = "3f465ef95e2b73d6b9a22ecdc759bc61f533cef8bd899266164e26d9c7b7e411"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/amadron/kerosene_to_emerald.json"
+hash = "c75bb4be17355d1329d32bf62d72bd75edab3b1b8ffa50e3f9d9c7c909af2edf"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/amadron/lpg_to_emerald.json"
+hash = "2a53e701098010998d64e569cdbf4b23465d5318316825a6187426856f6cbb38"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/amadron/lubricant_to_emerald.json"
+hash = "3ac54133c08a358a45d40c7e43fd1ba1c4bfae278d9a8cc2a2eeef34f00984cb"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/amadron/oil_to_emerald.json"
+hash = "ae4d0288bbbcf19a7819b05f94eca1fc942c1637c63bcab00e549cf3158109d4"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/fluid_mixer/biodiesel.json"
+hash = "3f4d9985c9eab25a39467532afd9df04c780ce2d253c15e4448b51616a497a61"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/refinery/oil_2.json"
+hash = "bb71dcf18d1f9d356558508e5270724a38b4cf0020d658b1f897dfe5b31f37d6"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/refinery/oil_3.json"
+hash = "be339e0ba3285729deacb456e763c5697c0c115d15b2ae6ca9e5110cb971865d"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/refinery/oil_4.json"
+hash = "bb08a44da6599694b1cbf676ae80d2a5a3850d0ed59c5f3d764509ebfdf9970d"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/thermo_plant/ethanol_from_apple.json"
+hash = "3b157ba9f59110e8f42a37f0df13ca35028e5c5e6d4069ab37b9227617f42958"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/thermo_plant/ethanol_from_melon.json"
+hash = "b55efa6ed7cde995885560593578bbf7156529e16e11ca74195292c600b89d88"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/thermo_plant/ethanol_from_poisonous_potato.json"
+hash = "d6a8e8924a1bf3b69ab7a567157f92139dca4cfd10e9c0e95a33ad0868d7adab"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/thermo_plant/ethanol_from_potato.json"
+hash = "0381469acadafc7c74b25aa5520434672168a3f26e8821f90f13b71962cd81f0"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/thermo_plant/ethanol_from_sugar.json"
+hash = "b2ba1c75f8becf97cbbcb8b57fbbbc98ee75055ca819d51e7a23fc660f8f8260"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/thermo_plant/ethanol_from_sweet_berries.json"
+hash = "a162d79d4fef2a35dd410b24daf1cdad652bde2a691f19e02f2c29e197d825bb"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/thermo_plant/gasoline.json"
+hash = "81236b07950df51e41462f89aefb005f57f4b83be0e34efdb1462d54276afda0"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/thermo_plant/kerosene.json"
+hash = "20a7196f5f0c4120b3ed6980b68be8abec1362cd610f75510c1132a03abebede"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/thermo_plant/lpg.json"
+hash = "8f519aa177287a48b92f8cc4621e21da1c3338e6d8c9ea12e14b52a6c608c563"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/thermo_plant/lubricant_from_biodiesel.json"
+hash = "648b19561d3af68914d1b163eb7e0ba5e9813c1ed607be73e69726e4abbe6819"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/recipe/thermo_plant/lubricant_from_diesel.json"
+hash = "3eade6d506e792a8f3e485e11d79dbb627f748063869c489c5ae4d78e3234da9"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/pneumaticcraft/worldgen/configured_feature/oil_lake.json"
+hash = "018a5b1e4c17cd0c1f54a724656d1b2dfafa1c2ce235a4ff46282132bdbdf392"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/powah/neoforge/biome_modifier/uraninite_ore.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/powah/neoforge/biome_modifier/uraninite_ore_dense.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/powah/neoforge/biome_modifier/uraninite_ore_poor.json"
+hash = "45d1aba2f2f185cfb7337f8972f3240fbb1b908ebf140c7d38f50c95a64767a7"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/productivebees/productivebees/oritech/sulfuric_acid.json"
+hash = "b6a677f83f87ea26a9b91b69f5ccd415ae3eb9bf1097a6b5acacdb54ea204eae"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/productivebees/recipe/centrifuge/oritech/honeycomb_sulfuric_acid.json"
+hash = "e210fefd37839d73e0d8b2a5799b3eafdfd281e3a2de7684d1cddabb8e2e1277"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/productivemetalworks/recipe/alloying/pnc/plastic_from_biodiesel.json"
+hash = "23f0bbf94585b1c067bbdc97f621fc85727a7a93bc9ced01541b33af18efb0b0"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/productivemetalworks/recipe/alloying/pnc/plastic_from_lpg.json"
+hash = "ac96c89acc6e06d6be41a92ddb212ac3a77bd0a30dad68b4af0a583e0b6df381"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/railcraft/neoforge/biome_modifier/add_silver_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/railcraft/neoforge/biome_modifier/add_silver_ore_lower.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/stellaris/neoforge/biome_modifier/add_overworld_ores.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/stellaris/recipe/fuel_refining.json"
+hash = "4afffc6dd483f071209caa9c35d2ccc1c80a2356692e1c0f1a63ed343404da38"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/stellaris/worldgen/configured_feature/lake_oil.json"
+hash = "16ad0263351986b8348c18598bea662620685baa557940f49b3085dad8a96503"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/neoforge/biome_modifier/lead_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/neoforge/biome_modifier/lithium_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/neoforge/biome_modifier/nickel_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/neoforge/biome_modifier/oil_deposit.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/neoforge/biome_modifier/oil_well.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/neoforge/biome_modifier/tfmg_striated_ores_overworld.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/coking/charcoal.json"
+hash = "2ee061e6113fa535c4029f215a6e21bb4a62c5635292898a0464a0127cf16ce8"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/coking/coal.json"
+hash = "95823cb3c1ab9701ddcb2740c73f7791c7880449e724b4da4fcd472f4fbd6b34"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/compacting/bitumen.json"
+hash = "837b18ed810d9d14c2ccf8e51fb6a8c4d3b8c3a8e8ab2356e1eae2ac9cd44283"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/distillation/crude_oil.json"
+hash = "b38f734a1f129f19cf2c4a5930df6dfeb495d725121e5c03e170d018b981dde8"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/distillation/crude_oil_light_distillation.json"
+hash = "3a8fcf83745ac0678c5411d344749023cd9dcb3fbaeefb6c98a36cccab0b644d"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/distillation/crude_oil_no_naphtha.json"
+hash = "0ca986247041731928932ef69933d9de144e286faea4058f4a33ba91da38b046"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/distillation/heavy_oil.json"
+hash = "d3ddff06a9fd9565db8d29d5ea9105eeb042ccbbbcacffa22cefe5c882523c77"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/distillation/heavy_oil_light_distillation.json"
+hash = "71f491a5a21090f080b56cb63c0ed1df8394f0825e62407d501a4c1f0b5ad507"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/distillation/heavy_oil_no_naphtha.json"
+hash = "571304d19898b62e935ccf51ef800f859ce71635b9328d4943186c18b7eef2c5"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/filling/hardened_planks.json"
+hash = "5678c607b5557d8abd84ff279ca564c2c41869f462208bdae4c2822b39de8ac5"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/filling/lpg_tank.json"
+hash = "ea437dcd8bd8f9616f7256a89db098f1a76d1f7a0362e160ca5723877642304f"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/mixing/copper_sulfate.json"
+hash = "6e98e41504f5a70e8b6f36e159c0807170014fa15ae8a8f150bdd71c3c5d232f"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/mixing/napalm.json"
+hash = "d484210a096110db7805ac87de4def0de796b5293666bc101eb98fdfc454e64e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/sequenced_assembly/potentiometer.json"
+hash = "2c703b7fff5d29a2a25dff4fce40904f3db5f674a009ab975db989ef64f1e20c"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/vat_machine_recipe/etched_circuit_board.json"
+hash = "0c99ab25108c74b4ca9aa5bd99eeb133a206ef0895f1aa9a74db685e35959f98"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/vat_machine_recipe/rubber.json"
+hash = "e4219d92b02def5902f4ceca18d6eff662367460879951852fce2520dbe47978"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/recipe/vat_machine_recipe/sulfuric_acid.json"
+hash = "d230fea05366e9195f21f9b67c7fdb43f244c42d243f24f7ab94c232f2ffed24"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/tags/fluid/blast_stove_fuel.json"
+hash = "2ad6cc6ae2762c9dc7392d73e5eaef7598e0ace1315ce7e09d78dc680ec9813b"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/tags/fluid/firebox_fuel.json"
+hash = "4dcf2d4b0aea8b6ea5b138f944a715b27dc6b0d704f53e1c2a987d329512dada"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/tags/fluid/flammable.json"
+hash = "bb0aa203e657c7e6dbbdcda91499aebf345f308c45e420430127e0e244ea7a43"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/tags/fluid/gas.json"
+hash = "344e44c12e70584bb04e18fe6feacaebd9c20ba589b5de1e80932de9dda14cfb"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/tfmg/flamethrower_fuel/type/diesel.json"
+hash = "6e0825c63afbcedbf4d730c75b6ad684fb99c04fd77ff8966eeb769d97525dff"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/tfmg/flamethrower_fuel/type/gasoline.json"
+hash = "5dd525350986ec53973d0648f0e1d94c9a2aa46cf3355edab4072004130ce97e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/tfmg/flamethrower_fuel/type/kerosene.json"
+hash = "aff725638d319cba27b330de38a9521922eee39c0e4fab71ae57d50bcb6f64f8"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/tfmg/tfmg/flamethrower_fuel/type/lpg.json"
+hash = "f1e6a653490eb57ce8506c822d957dc8d8036d7f36568022eb9f3fc3e2d84120"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/werewolves/neoforge/biome_modifier/gen/silver_ore.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/data/xycraft_world/neoforge/biome_modifier/ore_aluminum.json"
+hash = "d47a9327525c734da68f9c5659e4ae15157e8d2cb691c9b910b00e572825cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/forgeeverything_datapack/pack.mcmeta"
+hash = "7f81a27e5b01634e65bfe2975ef50630b8e639b7607d212d49d70add66204a0f"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "869a36e94ec25ced31d87da6e354d0b196b8838eacc7b3b7bcc6a9b8b4a43edb"
+
+[[files]]
+file = "config/sky_aesthetics.json"
+hash = "5aec4bd6bc3d988f1cee51b27600cff3512b688e8c77ec007174d6d91b784b25"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "71c046f6886bf52628d09f0bc2eb5e8a7974486026135e84a8270bcd6f37264c"
+
+[[files]]
+file = "config/utilitarian-server.toml"
+hash = "47141b3e9cc48d9a511d58304dd7e4d0a95a162b2eb549511d0463a70ba560e7"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+preserve = true
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+preserve = true
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+preserve = true
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "49da9ce72c6d4c5cb7fde9b565d2822ea2ba95942022e269b7811cf54995b84c"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "f828d2b4908cee566443bca45d945402e80a4792b320a336db9f7fe89b44959c"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "353b1d3f3abd8c3bf5deef9f21e031afd422aa18ff90454e1ee97440ae1c7a50"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+preserve = true
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+preserve = true
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+preserve = true
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
+preserve = true
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+preserve = true
+
+[[files]]
+file = "kubejs/client_scripts/hide_duplicate_fluids.js"
+hash = "34ffa8acd04a2237f0d2ce170cbbb6ab589e950372883c32d2785683448697dd"
+
+[[files]]
+file = "kubejs/client_scripts/hide_duplicate_food_fluids.js"
+hash = "fd466d153f5233e0468072b67b70b7e9692a2082891cbe135a4c120baaa01620"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "a731684f6c6054bd0f3b0f4f72f07b9047be9f7c5ee32243c24a338ee8678798"
+metafile = true
+
+[[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "f0a2f7da44df09efb6dc7534f6978c0b50498a85746f28c7df2beff20f9f2f0d"
+metafile = true
+
+[[files]]
+file = "mods/aces-spell-utils.pw.toml"
+hash = "672e9958e2f5c1a5f8774d75427d42a1d8935d55e59c77016880bd4a4979550e"
+metafile = true
+
+[[files]]
+file = "mods/additional-enchanted-miner.pw.toml"
+hash = "4b2358fc193c0c8880c4d23b1b9b407e6f6a26ee4dfb6f5ce718276f687bf5ee"
+metafile = true
+
+[[files]]
+file = "mods/additional-lights.pw.toml"
+hash = "49860246f39f410efa5df73b5d93c49830eb28d0b6911843f535bb6fc9978d4d"
+metafile = true
+
+[[files]]
+file = "mods/addonslib.pw.toml"
+hash = "73c3d825d5381e3c63effd37f2cf73017018bf1c7e94e67337f6c8f4d15f7a45"
+metafile = true
+
+[[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "8cf3b439deafb99bd59359b4b3b18fad29d9ded98b3eeb29beb421d54866a1d3"
+metafile = true
+
+[[files]]
+file = "mods/advancedae.pw.toml"
+hash = "bb5413fe5ac2cd229f01a8c0768c78ce6e5307304738de122e62bbae8a21683f"
+metafile = true
+
+[[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "d4c3f89192fdeeebab0367e7adb513e66a84e3dd634536ec258c039303204b7a"
+metafile = true
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "252c56b086a8dba58660a56843122674294ae2c0d36ae5f70e8c4a992c9c5613"
+metafile = true
+
+[[files]]
+file = "mods/ae2-crafting-tree.pw.toml"
+hash = "6a0b1911a64b37679f433fc06c199a477b7a3c586f5362798cfc8a6b1be7ce83"
+metafile = true
+
+[[files]]
+file = "mods/ae2-import-export-card.pw.toml"
+hash = "3c3af34e6827ff3e30ae968fae5f25a22a70ff723748577183aaba54d0079ae5"
+metafile = true
+
+[[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "55a482625bd1cbe28412b0c558d147e801716f29ddc92f34632da711c66a73f2"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "d6799a1e2a8a68ef9a54b8f9b7fcff30b199adb40b3c12051ec48788258413f7"
+metafile = true
+
+[[files]]
+file = "mods/ae2netanalyser.pw.toml"
+hash = "ee3075e5d1e18663bfe43286706d63ad9b7938224bebc80e5ffbddca399a1da2"
+metafile = true
+
+[[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "763c9f7b8a1c10d98c39e7095749decfedf4b2e3fc20b3364c09536632c09d4c"
+metafile = true
+
+[[files]]
+file = "mods/aether-protect-your-moa.pw.toml"
+hash = "21a4bbd7ba7e85b0a4258fb986efa51392e2931362ae04d9a3db0b972180ffea"
+metafile = true
+
+[[files]]
+file = "mods/aether-villages.pw.toml"
+hash = "87f5ce066d9d1d0e037fb31910c7545865824573ec1d682e5859daec0ceb7371"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "59c4c6c31eef1e6da0cbadc87cb77d9b907ec5742795e7adb12be6a5912980d2"
+metafile = true
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "da84da97d388a4cf582fb065e3fb0238cd070dcc807da54832c22430b3379e3c"
+metafile = true
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "003e3db40ae4265570a2e9182843c673ec44cdd6183cdb9a4547207ac76f69eb"
+metafile = true
+
+[[files]]
+file = "mods/almostunified.pw.toml"
+hash = "a1af0e16de575f3b44d15b6c68062ebd3113ff37c6956cfb77debdf2506b08d3"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "fa62e335c5062008ad4d5427c350f22a4489d3479348c668c66eb1294230e2a5"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "b4411ada6dfd031f2be0750bba12efd4b16b9d216449a7ee63c68cca9815ea8c"
+metafile = true
+
+[[files]]
+file = "mods/aperture-innovations.pw.toml"
+hash = "98111501efb2f8e8da6297927d4515e6314d87654930d5f6bf54332abdee340b"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "e46ee1afe131d5da308c8a98525f4f79b9d349d5fb74475737f7318b55ab18b6"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "ba6c6cef054da48366d27bcb468a589d89812b956cbbcaab4c53cb7ab48063d4"
+metafile = true
+
+[[files]]
+file = "mods/apothic_enchanting.pw.toml"
+hash = "9e46c37a1033c57d1f4a25c765105eb342bfa42f03a1b7ce3ff197527d51fdc4"
+metafile = true
+
+[[files]]
+file = "mods/apothic_spawners.pw.toml"
+hash = "9bbb96d83c5314ed461489e143986a54f7c3350790c6efbc3f83d017b2889f54"
+metafile = true
+
+[[files]]
+file = "mods/appflux.pw.toml"
+hash = "fd38751c947095e3187f70967a604ad22060a19147eb9a95e040ccab8d670aee"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "3233e168a8bda2e7383df114dd805c79869154571067fbbf47bb9babf4c07f6c"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "5c97f630bf46ed6db66ffd7142f4a3f56041c774877cdbc0949c3a476e1a7e34"
+metafile = true
+
+[[files]]
+file = "mods/appliede.pw.toml"
+hash = "ebb163f4f3065f48c75cd9ff76cb9ecc126e365d38680e4d14829dc1a2bb0cbb"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "06659cd6f8cb6c1f032340ce5fe28575224b367f3e6525238b31f2589d42b784"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ac211b628eb49dc8fb878bc1df80c25879610103effbd51f2748eac97cc7b732"
+metafile = true
+
+[[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "b731fec9bd1b26bae514117fa6ddd401cf3c7cf823f1dbe4d4b4e8ba7f1ad5b3"
+metafile = true
+
+[[files]]
+file = "mods/ars-controle.pw.toml"
+hash = "4fb36cb143ceb57a4925f126a32382437470abf5a4ce719d69119dea09a5d339"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "c75a9a7368af4f94b32db234580d7a8f6fd2165a55e18a535d3e4973ae151e99"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemancy.pw.toml"
+hash = "461264bdda9227b29ffbe3dfea91d626ba6741cba5e0ca9e0f5297f4f8eb7825"
+metafile = true
+
+[[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "c32bdc8ff44a988cced48bd98d29a542db64183980d4c174bddb733a52bfb8e7"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "c64fc4300c6de36362761f21fcd282084ad4b5bb1fac1bff3aa5224efbaf0490"
+metafile = true
+
+[[files]]
+file = "mods/ars-ocultas.pw.toml"
+hash = "298b0e7fe7917715abf58b44308adceb5e42534d7cd16d7c82d46f4d267f28d0"
+metafile = true
+
+[[files]]
+file = "mods/ars-unification.pw.toml"
+hash = "988afeedc3537f55a1b2d5e5ad27260398d6dd31b350b455d42b66af0f412d00"
+metafile = true
+
+[[files]]
+file = "mods/ars_elemental-1.21.1-0.7.10.0.jar"
+hash = "f4578d5df798c757c20b90cf318d18eb578e332ebf3fb4d3c9273b92ad3e5a76"
+
+[[files]]
+file = "mods/ars_technica.pw.toml"
+hash = "09b8bef98b0c0397a698136ca18fcace9ffcbb6e8781dee5bf917e440f7db1ab"
+metafile = true
+
+[[files]]
+file = "mods/arsdelight.pw.toml"
+hash = "7cadbc43e1eeb7e2770de670d5b2472d40f45ce7bbedfe346cccda822e57c225"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "7e1542e56b27ef2244743a4dacd5c2e5e6156e0a36ad3e8c05e99d679c3a8b97"
+metafile = true
+
+[[files]]
+file = "mods/ascended-quark.pw.toml"
+hash = "439ecce312b5bfbbd2b04ad6ab63ce032cdfad53df1b35c89a9ba362f25e484a"
+metafile = true
+
+[[files]]
+file = "mods/assembly-lines.pw.toml"
+hash = "d957c0576bcb8951dd8ab7bf20087cbc34efd7a26d5e22d91e76d46d7daf2c7e"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "043aee6316f43e991ecd1ef5b8e7887a817212f637876631179ebd2d8666223e"
+metafile = true
+
+[[files]]
+file = "mods/atlas_api.pw.toml"
+hash = "86d12f147eccd58f7abd1053ca6bcdea7d62857441dac22195a53340711ea58c"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "da9929d190b29aa10f7f5f2bfb8b108f150c94298e44fb3816a70840ee290c5a"
+metafile = true
+
+[[files]]
+file = "mods/auroras.pw.toml"
+hash = "4db5fd48901565ffe9d6391d163c4a626e07ed35385f3631c10e520e4d6b83a2"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "0f609236cbf6ee120a6e054ef2812f1a4342d324cdd572982b9db3e0cd622d15"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "599a363678305b05223daab18e47c254946a603feb302a5e552226473492a2a7"
+metafile = true
+
+[[files]]
+file = "mods/ballistix.pw.toml"
+hash = "4f97f69a69e45cbb7e43fd8ee0ab6bf47ede9d5978536215983a714e94119d6c"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "2b91ffe549c3ba349e7302eaf20243e10e9347ccb85818c8e638bc69be58d9f9"
+metafile = true
+
+[[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "a2042cb4a930908f562eae199b8795a068d2dd4092f8a67486ac46cb7e4b3108"
+metafile = true
+
+[[files]]
+file = "mods/bclib-neoforge.pw.toml"
+hash = "561ad31048950924972bdf9f0c156ca9bc11ebbb5928c76e00e58f5b1afb12c3"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "4979bd97326936ba1645b0e4cfb414635c4dfa7c5d33c90a54d93f9fea40337e"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "54dc52c81bd939a8ca19e5d958aaf9b76a71d9a61b4773a5a51dfcad2e0346b2"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "9eb146f4b7fd182acf17d798d9abd431831e15aa482d802440fd1e4a6daac823"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.pw.toml"
+hash = "e9a84d68345f15f002e3d5173affa9b18e907c2b60dbd993fa992918d4265be8"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "6e87341e9873552273b233c23e6a01b813e9293d29a1325019cef73b883da187"
+metafile = true
+
+[[files]]
+file = "mods/betterend-neoforge.pw.toml"
+hash = "d86ed90b803932d8de1404064d02cabf943c81f4b19d8125340a404117a6e48d"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "0e6a4fce6d8d3054e097db71fac5be24944bf8c30e16706ab18c26cd3509a5d7"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "5d4c3409e478d0b1fd7d8c71a94ae2182e157aade1ec7eb9d315784cb5e795c1"
+metafile = true
+
+[[files]]
+file = "mods/bibliobiomes-legacy.pw.toml"
+hash = "9f8035368dc9ad0fa6aa6a8b5a42560aeb76e040749ab2627950bda2efc2f5e1"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft-legacy.pw.toml"
+hash = "746f8df21792faa775733d9e79b4d7980eeed169fce986ead2133016eb351c58"
+metafile = true
+
+[[files]]
+file = "mods/bibliowoods-legacy.pw.toml"
+hash = "45e8b89993a25c8a8f81dbce1256d625bc0df48ceed4f53645a44f1c4c7c616c"
+metafile = true
+
+[[files]]
+file = "mods/blastcraft.pw.toml"
+hash = "5a60a29d8d87cb784b6d8b3e77d549a2f02b490bb0a7e2713b061b71fedd24a3"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "19c5f0f077e9441c3c47afd5b16fd2f556258fb61c8efda0e1843bcd1a069cab"
+metafile = true
+
+[[files]]
+file = "mods/blueflame.pw.toml"
+hash = "2e5fe8c66e7baa8d8cbcff77386365a077ccd4fcbdc320cb922886d8d976043b"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "3389b2630888677f93f2aacc952f64634de6d06eab6c52382d5c6921ce99dea9"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots-mystical-agriculture-compat.pw.toml"
+hash = "d9735e840fd739e477c2999bf63432e3e31a78f0b24927bcf458f7079a7d03f7"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "49f1fb701655a7ca646a35362707740786f719795b365df77d7a57518d5423dd"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "d0869e30acda11ff0218b2c45bfaa3213fdc75f466d529f721cc70ec4b8aba40"
+metafile = true
+
+[[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "152bc16bc7d32c82e5ce6063dc23e82a43d0f635c2d8e9973bfb80a6996752d9"
+metafile = true
+
+[[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "c13ed6f289e0ccd4d9a747b1bddec1377e1eb151954bd71d0a00a90b06a5a6bc"
+metafile = true
+
+[[files]]
+file = "mods/buildinggadgets2.pw.toml"
+hash = "4aa18b7b035efbc12db64958e913781af7e174627c107117e9f35b81817e74d4"
+metafile = true
+
+[[files]]
+file = "mods/cable-tiers.pw.toml"
+hash = "314a79614406d7d1f487832f74bfd127a97d6e34e54a76d574c70f50ff6c4e7b"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "4afa59a88984c871e560c0ff433b4d6bfd022fbadb122568092566da6cbe77f2"
+metafile = true
+
+[[files]]
+file = "mods/calmtheleaks.pw.toml"
+hash = "0bd1913736a25706afaab05a6a19a21abc5f7d974d50bb83bdb411c6ecbb5904"
+metafile = true
+
+[[files]]
+file = "mods/carry-me.pw.toml"
+hash = "a49e3f5d8c6d780044a005f399b2b5377c6cd0c80ca9d6071d1bd50f78d82186"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "e8564456dcb06a0dea20e7bcaaf38b3e7c7c1d3af0f2711f288748769cac0f32"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "5144c9e8943fd10882fe30b76de3de6efa42f2edd880410ec730636cf4dd1c05"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "21d2b64dab2daaba1ff392cded4b21f26dd97c815138aaa2f1add6dd6ad639ed"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "cbd5d389915dca7f17ed5aef07b2886e8b72db03b40f30236384a84f4232a16f"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "bf4fd08b2e8c13374c1344a593a7cccd392dbf5801840e9e22f53f96a010ed0b"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "994b484469c9b18d2404a2f18bea5c18e5e25dae68d5d9efa1b82bd2a1b57356"
+metafile = true
+
+[[files]]
+file = "mods/chisels-and-bits-neoforge-21.1.32.jar"
+hash = "982f4523abc12c5de1e84410f4e0ee29e134e854272c3bdb2c8fe24841a21265"
+
+[[files]]
+file = "mods/chromacarvings.pw.toml"
+hash = "f1254348d853e79e1b430845ac6ad1369d79fd33c1a10dbf0464855c21e2c3f4"
+metafile = true
+
+[[files]]
+file = "mods/classic-pipes.pw.toml"
+hash = "dfc453f7b2421e07f92cc9f6a1dd4d1a71970cff84a451489443f5c56c502c01"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "1074a440c1e927a4c7270f7a5634b8510a5aebf69e525c789534d3dac6f81695"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "f534d4a3bac346c07867df8b3b23d6b6b9e8bbe80e03101ee5ad7275b1d5405b"
+metafile = true
+
+[[files]]
+file = "mods/cobblegengalore.pw.toml"
+hash = "e53e92c905431bf6ee535ac37738352b05fe95c1d0abc747074340758e88c8d0"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "82ce7529bf31c8eafbab00b4150bf21ea4b65921f7ba794b6739ff53ea894da1"
+metafile = true
+
+[[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "6574eb0408a22296c52aac68d7c7217ab0b01fac1d416d1dd43fdf1b97e467d1"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "bdece79769f14bc19332db66bd7e39d0a6ca47a5404d525d56b556ad88cc5154"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "2bb83e433ae4a24efd9b012afe05781c37eba06b893ed9cd8d6b2001416b3d11"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "3f3434d04cd3b40badf0775f6e7d026ca6f64227bcaef1602b656508fba48445"
+metafile = true
+
+[[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "d80ddb87a4d6a661ba63a405d915c1386996f1562ee009068603732a6a637a8a"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+hash = "c81ea2bf22ef21fd7805487fa149d282365b71ed8f1fb460299dd992b4d61c40"
+metafile = true
+
+[[files]]
+file = "mods/compactmachines.pw.toml"
+hash = "d46f78d83cc5ef035e6624a41611d4a4dae60b3c213cc7177bc6ce66899a8cee"
+metafile = true
+
+[[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "49dee2963fe4488d7e74b1d9103b6799c0738b26bedcdaef60b61ccde7546d8a"
+metafile = true
+
+[[files]]
+file = "mods/construction-sticks.pw.toml"
+hash = "d7fbfb55950b360e069c4ea029e50b8455e8e796862547d874e1eb371361b0c3"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "0ef781376385226787acc35d7943a1e923f8c9728ee69ffffbd1fea2d3577806"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "575f78b391cc8b2fd5faa7acd769c29753b2e5404dfe7535f508686558a69a2e"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "a85364773f2860f9fe31fbe722b8f53c376ff606f25485f1a1d325c98cbb787f"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "5c6baeb1b0133ab905876d0fb4b0510c257d8007fe211633acb87f4e63231386"
+metafile = true
+
+[[files]]
+file = "mods/cosmeticarmorreworked.pw.toml"
+hash = "2e74933ea17f2748c72dfc56ba44ea91b6a62e9602d5959008c7bff6a9b501d4"
+metafile = true
+
+[[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "e9aab28f5455935091e9617c64df202b0cd3034e414fad80b8dee932ef00ed00"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "06f8bd9a3036b4fccc3068915850ae222131bc13af6117b040d2b19bda403edf"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "ece2d7a99f6ad54633dd02c96dd42cf4cb396ac2af81679f9699d6ab65da6699"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "7e577f5e638c4ac3dbf09bca87e9f246378a39d862cc77478f870af0414a09ca"
+metafile = true
+
+[[files]]
+file = "mods/crashutilities.pw.toml"
+hash = "9991783787ec958ae2bcf8faa0fd9aff0793cba8e0aece5372f7dfa41b68bc81"
+metafile = true
+
+[[files]]
+file = "mods/crawl.pw.toml"
+hash = "3bd6464cf19e6cc705d84b654d32c98a7e1753d055217c21e323024f47efbc36"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
+metafile = true
+
+[[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "e3a507c195c2e26413517edafc067ca8cdef837a8c40590a9a4bbfb54ed3dc11"
+metafile = true
+
+[[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "29ab1538233956077e2535bb9c8d94d2991a8f7cd3706b1cc10fcd14df49b9d1"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "84d59cb128310f94ff74b144bddba65e63bca395fabe2a479c2c7544038fbe5a"
+metafile = true
+
+[[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "d5aad6415413aa777ed89ae55912f33c86757321c7c16c8392ce2e1429b920d5"
+metafile = true
+
+[[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "ebfdf406b43825074feed0ac11f8ecf00a14ee9c79c6707d19ca48bd65814890"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "6ebc6316a99b9946d6cc684c212bebb30c20d3e862aa9e480c3b1203d0c66da4"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "5e6c8bc6f3a7bcf8add7550f0da327b4d35339ba15909a79770fe352360f8896"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "d6f66466a005f4406f59b4e06beade42041fb4f741120e76abe0869705649e64"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "01ae0528510fa1776ab2ac33d5056bfa3d22bcf84eea96409b60e9b173ecfb43"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "c42c64571f5748d8eb81b77304cad9d081980ee0dcea6beab30098fd8f4cb7fc"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "8329d7ec9bdc24e9bce411a22e448aa5aafb478c308bb9963cf39acb077654d0"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "a0bf793670605c76b83b90760bb94e41af028a56ffe09fe6298f35f4cd92fdd8"
+metafile = true
+
+[[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "1d12f3197d84d4181176e103e7a931309ef0c218d4b30184504cdb9789ab3405"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "1d922d83126b48a589d230f2631c8f7b4b610095cc96077d358f829bf4f5fdd0"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
+metafile = true
+
+[[files]]
+file = "mods/create-tfmg.pw.toml"
+hash = "95b7f03fe6d67ad18362de7b9636b6ad69ff481441af693928fb439505b7a49c"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "39a3c96f7cd304cabc0607d3d2ffb4d9458fe4855fc2e2a160c5b07cce905273"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "9fd59064b48222982ab3289c3c676d88f0521f768de6606fa1e4f7bb7412b3a0"
+metafile = true
+
+[[files]]
+file = "mods/createnuclear.pw.toml"
+hash = "612605e5fc14e13fc03520ead8da30a100191a4896160111d72505d11c9d4812"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d02920c8f42e8e6f971ce858521bbf87b1a6e8d122e5b2ea261e8d5253886746"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "43f7e2441dd248d6191c40dab5f7ff4da28a46f6f71ca9e61054e02269735cc9"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "a49a9be12f8bbe78c5677b04d886e3ff79b852fee35b46103294a93c185ee2dc"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "e94ab7d7f781c759211f401de21a97c7131c26c946445282a58597770cce4bd8"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "e2a23bac9e30add7789d6ab6c35bb82d16bbbdcf527ec720d01d92a779ad3275"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "1dc9b74d239d889ba5165a28e57d518ef2beae63ec3574c03d80c3391486aa84"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "069019eaca397c12635b1971215d86b4e63539cec28d54c4df27d519756e4abb"
+metafile = true
+
+[[files]]
+file = "mods/dark-mode-everywhere.pw.toml"
+hash = "6052913e4b1ffae49feb14c787b9e08d33c27ceb2f0dcba70ff0659e5f02289c"
+metafile = true
+
+[[files]]
+file = "mods/deep-aether.pw.toml"
+hash = "51bad63bb1b2ad4d66bf82099551eb550bc65c0763ba1bcb147b77ae7dba3e58"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "28776f7ccb5e2e507ef39cefb63081d88ba18f0fc6a8f6b30bc9518e030ce885"
+metafile = true
+
+[[files]]
+file = "mods/deimos.pw.toml"
+hash = "3086e631145498ffb106bd2e1650c70d86f4cdc1d8149baa78376aac024b5595"
+metafile = true
+
+[[files]]
+file = "mods/deployer.pw.toml"
+hash = "e018b115f92cf8e35dba2b8023abc9be35a54935fb14e6d3b0b18f7877796aae"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "1de2e4a2f3421bff4c33d37675ac976851b37690af05642bb9393455c47fa9aa"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "424a510f9734d95770f35e42036a0e3a1eac80d131ed73f7fac998e7e44d9591"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "ee9fd9b243f160928cea27807f0873fe94475cbc5e18a175abe813f4c141660f"
+metafile = true
+
+[[files]]
+file = "mods/dimstorage.pw.toml"
+hash = "22ba6ba765508f1114cc6b37652c12a3d1b5f54bee4953d841a187d3dd1b3a7b"
+metafile = true
+
+[[files]]
+file = "mods/dis-enchanting-table.pw.toml"
+hash = "cf80870b6f97dac44b0ca8a6f5d1427cd0774c6e1f79224000208cf46f74cd82"
+metafile = true
+
+[[files]]
+file = "mods/domum_ornamentum.pw.toml"
+hash = "0b4fad653063d3ecdd72b340bcb81e872fd4b048a33813e6a346b3916a4a3a7d"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution-render-patcher.pw.toml"
+hash = "3795a44a3deaec174f8c3e90540c83e93c0b86cfd575ff5a42d01dd38651a720"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "4b29d26380407a3ac3038831b49d037e1b8d787c99c654cf205e378e0794398b"
+metafile = true
+
+[[files]]
+file = "mods/drippy-early-loading-module.pw.toml"
+hash = "75a2b4863c89e3733068062eeb857286478e4184c3dfcd9f27eba5dd6073ac01"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "30691b298b42db4afb4f2135fcb264b659fd8e78d8d5e82162a95df1c41be1a9"
+metafile = true
+
+[[files]]
+file = "mods/dungeoncrawl.pw.toml"
+hash = "26a066a37223094006bdc4f7da021b82580ee05f7c35ef6889bac383fba2d5b9"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "92f46c081371771e75ba7326a331ec00217ff7e1afeab703de8b714f737bfa44"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "068df95ec764531f66482c1883e4b25cd20a9c14d280d7e026ad964dbce6b243"
+metafile = true
+
+[[files]]
+file = "mods/dyenamics.pw.toml"
+hash = "a51c12fe752c49b7fc317e22ebccc275ec79192a7a9423b12fea445362ba9662"
+metafile = true
+
+[[files]]
+file = "mods/dyenamicsandfriends.pw.toml"
+hash = "c2fc957a8f9f09fe02d0782dfd1553e175579a1a8f4afa9420decef6eb4d3121"
+metafile = true
+
+[[files]]
+file = "mods/dysoncubeproject.pw.toml"
+hash = "55e8f673358ec82c50639d135ce66dc72627b20cbdf734be346a17836967be20"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "6217f696deffe9775924b275b6162be9b0d262c202d9cb730c94be64fbdd9372"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "8cf17412ae3a9e419d261ace11548ae45c37d0fb83b0892647592aa9d08490b6"
+metafile = true
+
+[[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "2bac835b89ea7a69aa4c02348748ccd98897c870af93e3d600243052015911eb"
+metafile = true
+
+[[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "3c3c91eea4e413a53ca6f337940922338b9d06e967d811ef2109d5396228fea9"
+metafile = true
+
+[[files]]
+file = "mods/elevatormod.pw.toml"
+hash = "fe68a67f0daa3421f585f536b4e499766c7989fcb08691c5c2e964c79282d13f"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "c1ce0cf940ea08209493061336df09f01b68dee29049f0e44192059ad6128afb"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage.pw.toml"
+hash = "af5a6a9c2ba93587d00a9c52118546a7391527bc1e3e668f9054b374d4437bd3"
+metafile = true
+
+[[files]]
+file = "mods/enderdrives.pw.toml"
+hash = "a921b7e17351354f2fc286a008ed245a6907c2afde638caac73e877ba2be3576"
+metafile = true
+
+[[files]]
+file = "mods/enderio.pw.toml"
+hash = "a990268586498a4caff633ec8c6db0cdc42c7e5ab39515338b5207e9636338da"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "1011d6e6a99522df9c2ed3bc8a3413f6fb2095dfd0109abaf76245ea351d3dc8"
+metafile = true
+
+[[files]]
+file = "mods/energymeter.pw.toml"
+hash = "4a6e102794b9bb50f67b069bed758233d09a20f8c5f256f05d352e64320412bc"
+metafile = true
+
+[[files]]
+file = "mods/entangled.pw.toml"
+hash = "3d7506d1c49b3c9544078c85686293464e3a5c35e84dbe00d8b8e831b53b2769"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "17fe544c535dbd590d4e1c094bf5216d35796fddc4e21c902e5f6fd442b67595"
+metafile = true
+
+[[files]]
+file = "mods/escalated.pw.toml"
+hash = "ef4b20a8e5f1e9c1f527b4df76bb58cafefd3d48b9e4a86cfd6fa1162a489e25"
+metafile = true
+
+[[files]]
+file = "mods/eternal-starlight.pw.toml"
+hash = "02c033c7c9e498fd7ee1654c27219e2cc1a779a2ef62eb984945a0e0e8c2bf54"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "a245469cf91e7f3c8aec3b0f5ad3d79b1846ac0696543f892b426faea5f91cab"
+metafile = true
+
+[[files]]
+file = "mods/everythingbugs.jar"
+hash = "d428fc3d6a521c0444c935c722eab6c74c24221cdf7af81ad7d7e73759d6cc83"
+
+[[files]]
+file = "mods/everythingcopper.pw.toml"
+hash = "49662e374bfbc44fd80691d18218a9b59358637bcb7e0215ac4be405b44996d2"
+metafile = true
+
+[[files]]
+file = "mods/everythingfood-0.0.1.jar"
+hash = "27b176c3318b1f5b050f7e940c60b5d5084aeba6d8c91b6bf0e35bb4aacbe164"
+
+[[files]]
+file = "mods/everythingores-0.0.2.jar"
+hash = "56b49e22dd04f45da94dadf986d6461cbf6f55cbb59445d9617c5d58c63a9433"
+
+[[files]]
+file = "mods/everythingrelics-1.21.1-0.0.1.jar"
+hash = "618d320a689d9ac20b4e02e5fa6bad2023459f0e0acd8442b236f38512f67f85"
+
+[[files]]
+file = "mods/everythingrgbprofiles-0.0.1-experimental.jar"
+hash = "84cc8137cf580bbdd0df48c5840840b2475536b422ae5ae3ff7313a565ce24f5"
+
+[[files]]
+file = "mods/evilcraft.pw.toml"
+hash = "521504b2ba42b175b156698028ef652aa397c4170472ca5c5fe795aa317e7c80"
+metafile = true
+
+[[files]]
+file = "mods/evologintimeout.pw.toml"
+hash = "0b19848814624dfb13cb2867bd33ac09511f880ea32d36891a570166b54f81ed"
+metafile = true
+
+[[files]]
+file = "mods/explore-ruins-aether.pw.toml"
+hash = "8c1004d18ae8a4e0d40e51048d320b1877713994be5cd03532ea1343367ca513"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "ebb064dd5dbd62264af44941995b6d98663c94b31cb52e6f5796292a36433117"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "a19033fb1f525f8f063742f30f7ce518ebc8444fea2287128b580b853fe8a626"
+metafile = true
+
+[[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "8da36fb0197a4af76f3f98644c7834672220c734a05e08238cfeef213583585b"
+metafile = true
+
+[[files]]
+file = "mods/extended-industrialization.pw.toml"
+hash = "c0bce88fe09b30fa3d092e2aeb1faa181f19432108ca8dd9b04f115d71219898"
+metafile = true
+
+[[files]]
+file = "mods/extra-disks.pw.toml"
+hash = "50770e5eb93d7c17f20ff2ff93e2a7c548530b8c4882023eee28bcaddbf6cfc4"
+metafile = true
+
+[[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "d1c632ecdcd25673c902ecb361d2d2a5268e83483bcaff8003d6eb59de62be6e"
+metafile = true
+
+[[files]]
+file = "mods/extraspecialcore.pw.toml"
+hash = "36c3054edbfe8e57e3e562e669ca951a29828f63f5574ea0dc41f9b74429a039"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "71b0a9d9e70f0eddcd183f3959677dc3242969ff30d6ade9718ac56f140301b0"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "5c60992c423f5d707db338ab233f65f5d0294ccf0509a819b76d649fc3017153"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "b9f5bf3a2cebd5e296e4fb23f47f17114b8ddd0b2030d831f4d5c2d1f39488a4"
+metafile = true
+
+[[files]]
+file = "mods/factory_blocks.pw.toml"
+hash = "26709ee8307f417d6094397eb956f6cd6d2f7fdd516e53fa0a55a3c49a3bbd03"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "6b031212086d219dd09cb9996e726ab3eedcdab53e9475e720e72866b8a0f977"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "968cbedaf8b29e45942519fafbebe764863f26eeb654b62353cabb514034f8e2"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "551ed684c9f7cde205d888928a32db1af6592046c17a5aa1f0b8930232e6b3cf"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "a655921a1d5b6cafb87d17157743c5609959e32a1defe4fa74d43913e01a642f"
+metafile = true
+
+[[files]]
+file = "mods/female-gender.pw.toml"
+hash = "9f1d17c4e5489d468c40a3c70c547056fb194598918e7f59c20faad366c3f0eb"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "512b9c77d6f0911ec98e8d079af949e695bef843539aa4cab579cf3458ee8795"
+metafile = true
+
+[[files]]
+file = "mods/flickerfix.pw.toml"
+hash = "dd660316daeb74e1dd4720ec64a6e073d34010dfed91a4ba762d8696298de6e2"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "0e6fc9888b050ec480f761b28e289d08f4da9e7a0b9c40b244ae73c691376835"
+metafile = true
+
+[[files]]
+file = "mods/forbidden-arcanus.pw.toml"
+hash = "966af67f97d59f6eba8f42d5db8a55f63ae82a4b31aea95f8b1bf7fb6e507d36"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "bd69d51a6a2b32ca820d74c3e16d13678837e74a50bda02a554b066d8cc3a38b"
+metafile = true
+
+[[files]]
+file = "mods/formations-nether.pw.toml"
+hash = "e3cabd4d8cc2f207fe29e89204899e99b956a06bf6300b9a28f7fa162a054a58"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "a838687274e566fc4c0db2c3c7f597bc60ce3c18729bdcc79a576b15912851cc"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "f5c7c91bd667aa1285afdd8f31b24039d79bb50f0dd7788c51eea8b3a07f8c64"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "e43cf91ab3a7529db623cc1f6b253f711b682f9584de33e05fea7da1556f8662"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "d7fff4cb3323b1b4cf2d04637587ab376e6b60c902cb000da37504f8a2098db5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "d81bd67d65d4e8b5b6728b131c89dc75f202786e32bfa38a0e3d164e658983b2"
+metafile = true
+
+[[files]]
+file = "mods/ftbchunks.pw.toml"
+hash = "035ebe6dbd8302b7435cab1aed6bc6103d8c1427ce9f8cb2de745f27805e023f"
+metafile = true
+
+[[files]]
+file = "mods/ftbessentials.pw.toml"
+hash = "b20385677bc567881507176d227c7d55c0cc45dda2d5f2aa3723364076f881a8"
+metafile = true
+
+[[files]]
+file = "mods/ftbjeiextras.pw.toml"
+hash = "8fd6c6c362ebdc9f9e8044ef47ee08e93905f8d5b1b423d9058d6323f704910e"
+metafile = true
+
+[[files]]
+file = "mods/ftblibrary.pw.toml"
+hash = "f085d90e3c93fc81cc33e946866c8e8c771c0b863c497294b64caca71c1f7822"
+metafile = true
+
+[[files]]
+file = "mods/ftbquests.pw.toml"
+hash = "c35b8c02b7e77eaa9f2d8b35cad111679a980313cddf925295f5404951d77c45"
+metafile = true
+
+[[files]]
+file = "mods/ftbquestslangsplitter.pw.toml"
+hash = "59cc8dcecdf3b0924d8fee576b24a04d713e01d0f9ba755da7161a12688979b2"
+metafile = true
+
+[[files]]
+file = "mods/ftbranks.pw.toml"
+hash = "59094adb3e3cfc23a057aba9545ef9019dd683a298a65c5da01b0dd4725154b9"
+metafile = true
+
+[[files]]
+file = "mods/ftbteams.pw.toml"
+hash = "4b08c6aeebdfd219c2b09888afcfeaf2d578159f66809ae2e76d588abe01c23f"
+metafile = true
+
+[[files]]
+file = "mods/ftbultimine.pw.toml"
+hash = "b950dc535997e15c2e9f315a48f81045bfe423896d0560e6e82c54e77b8c67cf"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "66bae5f74afead36d0f3c7371c8e9396674dff0582b9c722e1c5aeb6231700c7"
+metafile = true
+
+[[files]]
+file = "mods/gateways-to-eternity.pw.toml"
+hash = "767380dc4537562578d3252e01a3e4487b932ba23c9215d7aedaee777afca7df"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "49c8af0df667299e22448b06bfab086da49afb108675b04ea894b351fc00295b"
+metafile = true
+
+[[files]]
+file = "mods/generatorgalore.pw.toml"
+hash = "56c12981ee886a7de9bd15a793c0e65245bbe5fbd0c278b9429f3c3420798c7c"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "3719778351496855f6d30cdfb582bac0e6196c13c51d8fdbb3d63a0d35b13555"
+metafile = true
+
+[[files]]
+file = "mods/glassential-renewed.pw.toml"
+hash = "d9e9c19f1226e1c32bd1ee21afeddcb11e116b31340168435a1e97c63bf672fc"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "d5865dbdb0e0e8002a76c228e5341cceb8639860fc09957f50f264e0264b4b0c"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "1f1ff2b6af26929ebe91d88dd0d03c2114359722b7e388862ab3a89b9955ec81"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "f77cd3c12cd16776d41e42e066d7ecb39bf27bfbe50770fce2be49c87ccf085f"
+metafile = true
+
+[[files]]
+file = "mods/gravitational-modulating-additional-unit.pw.toml"
+hash = "898b447a4464bcd9006bd496573fffbed1e2e36848ee18274856eb5623768ded"
+metafile = true
+
+[[files]]
+file = "mods/guide-api.pw.toml"
+hash = "d973a76275a2ed58cda27e322b6bebe217144f1083f5a3eb41074dd2785a4fd5"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "aa4f11caf2fd2adf22d2ddc4f297d6389c908fa805773576fcd5849b4d9a330d"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "fd2131a3be3716b21624c37b19ebe58012d5bcd37a03c84a5b60e9c679542bfe"
+metafile = true
+
+[[files]]
+file = "mods/hellish-trials.pw.toml"
+hash = "141641453d12af880f721e988462fb63a4a9d72cf7963cdf90304d7a0234f2bd"
+metafile = true
+
+[[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "f6b4b55804cc270e76631f7eba081875ac25877197ef77ab4cb6830490f527f9"
+metafile = true
+
+[[files]]
+file = "mods/icarus.pw.toml"
+hash = "c3e412cb7041d8ffe4daec9934454e522951d6ba4e400e5ee07101c779c84710"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-spellbooks.pw.toml"
+hash = "8cf308cd23e1befb6ad3592c58b05319a36b3f208bca9ee88e390a9641a5c2ac"
+metafile = true
+
+[[files]]
+file = "mods/iceandfire-ce.pw.toml"
+hash = "59a60fae13ad393676755c17d0836d8a4efb1d98e4e7ef9d4b1e16860326dd25"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "6d4ef55d06e1ba912e30533e94c47b5590b349a9c96fa4ec9c5a18a9de5797e7"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+hash = "6d5fd4c94fd98795204bf5ef84c643ab44b967249f9ee671bdd49c4ed3c4db90"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "e118263004e027349df71207bf1adc692452b9b36967701266e8bc982e25dfe1"
+metafile = true
+
+[[files]]
+file = "mods/immersive-energistics.pw.toml"
+hash = "1e795397edd1b6b4cb6238a28629fb20e5ef018c45da46fa3e4e835182e3ac09"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "5aa19e78b89d3a34062e04dbbe23bc726f69950e8b5a82b69d6ddf0caf03c2f1"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "22864d6971d99f9fa40a0a45b291e1f3828faccf06d0da0b78a6e718611f9ec5"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing-souls.pw.toml"
+hash = "ac4a2247e917e430c6f007c512173536ac811e814442fd635241740d7cd2f562"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "0b40c9ef099991623e6ce3a3e204f6b009a6de6b38118b531dc8ee2cd7cd8eb1"
+metafile = true
+
+[[files]]
+file = "mods/industrialization_overdrive.pw.toml"
+hash = "f7886bc1d2444a88b2c6d8343757e7fe93cfffe5a1be6b612a7c6b8dee462f67"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "d0554273c8deb1d7a10045f6e7f9bf7d6d3714aabaf4851307a6f70011be4e9c"
+metafile = true
+
+[[files]]
+file = "mods/integrated-catalcysm.pw.toml"
+hash = "adc3f49d11e1de92e074d6f32ab2a2ca2cc384dde1a1dfff1ee0c4454353cb34"
+metafile = true
+
+[[files]]
+file = "mods/integrated-crafting.pw.toml"
+hash = "d15491f535099a6d31cfc189d0a8db0ef7585c20dc110860f0c870f10698807e"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "5d7224027fa7ea71b763953810f0d0bbada5df22dd63a555a05c65066d1b27a2"
+metafile = true
+
+[[files]]
+file = "mods/integrated-scripting.pw.toml"
+hash = "9c0779418fe90c9ecd24d33c3c270b96ddcbd95a4af960d2b7001459afae305e"
+metafile = true
+
+[[files]]
+file = "mods/integrated-terminals.pw.toml"
+hash = "57980232117a7b7a7743fb4ea7af3f2133e828cd8d40ecefd86df6023b9b84f2"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "8d0777bf5e230d842574f85f78a576346645b68b16a17806404ef330c6dfff6f"
+metafile = true
+
+[[files]]
+file = "mods/interdimensional-wireless-transmitter.pw.toml"
+hash = "c17b8b7951c424c431ac963e068cbbdb62fbc262e85e42f15b7f18c759fef780"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "651b5f344e6c2cb70356e9c60310e579ec28d1f6716830bad5b03236e6537920"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks-refoxed.pw.toml"
+hash = "10bfe00223a7f92ca9203c863d822c2cffaaf6098c058d428f3bdeb308b45845"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "54b43af1a643a0af2f91028f26932e7e43354443304e9bb828f4977b457dd629"
+metafile = true
+
+[[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "d9e6a725812ea4c760c6fd6837ec709ace904c89bcd3b6ae066f95574053e4a1"
+metafile = true
+
+[[files]]
+file = "mods/iron-jetpacks.pw.toml"
+hash = "95529af98b78bdb3bfa8b25106a374d5ca05aca933c1afa881ce448c7d4335cf"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "4e7c944946069f1d258900ce1f79de2214c407cd1b2502d96756d5345488e333"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "065966640711710eb5d8c2725c25db8aa0eee047c0a863d8befd984070d47c40"
+metafile = true
+
+[[files]]
+file = "mods/irons_jewelry.pw.toml"
+hash = "323acd435490f1f36362aa838a34779288c5afb655748da77fe97cdd0b3ea3d4"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "00ef3fd9e714ddeb061c137869729fc5d9723d623ec3d53029a1be76dbbf1470"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2d1ea4cb6dd6dab4f03618b16e712727062fa3bbbf998a08ff72212e44893afa"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "e1bb8b41f80e7b995b088ec04c14e18deb95e52bdfbae9dbfc77d02d6779b3ac"
+metafile = true
+
+[[files]]
+file = "mods/jupiter.pw.toml"
+hash = "355f223dd7aa0efcec33995ec34f98e2f41e3b7008e56c3a92cede34e55c453c"
+metafile = true
+
+[[files]]
+file = "mods/just-another-witchery-remake.pw.toml"
+hash = "e15c7784aca4659808009b670749c32e65332bee52aa8f5ebfb6afa038d8ec1b"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-archaeology.pw.toml"
+hash = "aedfd6d56e13c24eecaa00e298f8f4285497ee25a51d70e48f4bec1dd600aa66"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "373029b20fe24a4a3398c5b9f526692efc0e6c094eb19129c28027801bba99f9"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "83cd1f7d20f38d266ba41a296107457c98546bb233e5d2b2267f23cc7877fbb8"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "fbc177d84518cf82cea96105244d7998c8b2dc58f57c5e26a5fd8ac48e6f7900"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "0ec09b96f6bac824dde5a2fcbfd65f9b9794954251680d428a49e8d4dc2080a6"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "2a93451fd8182d8581b990182ffc23bc5e564fe0a4bc00dfac199d7156afc26a"
+metafile = true
+
+[[files]]
+file = "mods/keybind-bundles.pw.toml"
+hash = "ef5f0ad6e13f4c6d8bd2ab25c928ed48f6ada0bd2b79193d04b310a0b8948022"
+metafile = true
+
+[[files]]
+file = "mods/keybindspurger.pw.toml"
+hash = "09b1dd98e5b73107f952d9b1f9341498018f030ef02461675f7be2bfd884a070"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "1beef5b068fcebbd1ebf01b7f1ac6f93c0327405223483fe369dccbdcd117a4e"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "8c5cc6796c8c1cfc20ae88e3ebd3ac59b846ba396928663172d46c6831be9c05"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-additions.pw.toml"
+hash = "66fa5eb1d17c34790b991fb5f605d1c9166ae36361c86d22c3e659ece39eb48d"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "37e921f7be0a8bb53f8c3c6b1749efd8a2a95882d212d7b1748e914d646d019f"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b3014913c1ffc32c5155308a482c7ac03893a88987ab9d9c168e9cb744665544"
+metafile = true
+
+[[files]]
+file = "mods/kubejstweaks.pw.toml"
+hash = "a10e67e0802cc0cfd517bbfabfb16f29ea4e2567fb7ca31c5dc3c36ee9c8861d"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "23b3d4225aebb7e04f096128a1fbe467b2ab57295707414f006073b92f9ac4ee"
+metafile = true
+
+[[files]]
+file = "mods/laser-bridges-and-doors.pw.toml"
+hash = "0259e5146790d3aea506bf7a88875c21fed3a08135ba6d458ee88f3c928aaee8"
+metafile = true
+
+[[files]]
+file = "mods/laserio.pw.toml"
+hash = "450ee85e3e8f8980405874060c0a963cf66ce3c2f537700d2b7f392a3f0ecba1"
+metafile = true
+
+[[files]]
+file = "mods/legendary-monsters.pw.toml"
+hash = "29416edff6831dcf31316c6e07d8decfaea4f1b307b4b2c2ef2fbd669f7d3706"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "8b443470a36935198fee76766eed5904b23cdcb8ed5c5299077af36c22df60f6"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "8d99aab1565c2b5c8088793f6b9ea370d6229035bf5303d6494a1389c113428d"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "9d322cfbd72fb42456b39928ddc8523d8abc3e917228ca4b9c0d09a0d5c9f07b"
+metafile = true
+
+[[files]]
+file = "mods/little-big-redstone.pw.toml"
+hash = "9d1381d0ac09f6194cae3496fe8f4adcde7e716075cee6332a9e656135550e7f"
+metafile = true
+
+[[files]]
+file = "mods/living-things.pw.toml"
+hash = "56707444dccd462def757c27bbc2fdfe00371e7f063578bf71504f1c10d2dd17"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "040d7f6f1a252ad83af1816a8fdda73bf05d75cd74236dcbacd85fb1360885a9"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "bef02a00b0d5a28c48076cec60a6c513d9dba0666728e1d806aafd030dca4f60"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "39960609449eee32c79adb8f788cb77395b8cb9794d3e9ae10f586404b362a1b"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "3590dd8f507343ac2ad8b8201e46aff0b72e7b284fd320e1e5b1ed6c88ab55cc"
+metafile = true
+
+[[files]]
+file = "mods/luminax.pw.toml"
+hash = "46bcdfdab7816f3bc52ea72fa2d876d8672d985a8e0f4846a91c55196176317a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "142e65a0eb5d6e9303fec3554022c13a745bc55d7ba9702db0cb177943e6e6be"
+metafile = true
+
+[[files]]
+file = "mods/macaws-byg-bwg.pw.toml"
+hash = "854663fef94b4239b201b94d6e0095f9f247f22f5ffe405cc9f69fbb49e31d25"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "d681ed6ccbd77177d8b83a37c61f269f3ff40a364b3028614e6035e938290c6a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "3bf4fea7a144f601fd6531f40ff5d4675ca6bc3f89fbe7c153c168f8cab5063d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "77b4ad4eb5379bee891d893e210f14139eff16eefd53d28e1f8a41a977fdb3de"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "2367164b5958651686b6c2448b8f72e175443a735ed7ab8c5ace8382d5d33a4a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "4d8812ca3a693976ceb269c894807ab4b34170187a111a87d81f58dcd92e2a93"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "8f44945eda3c62adfa08950b3909918842179f3be929ec2d7724f6d43f04d9a1"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "b51585be8e4580c5645d3b3db65c24fb0a108738b07ef640d9e166177f9fc911"
+metafile = true
+
+[[files]]
+file = "mods/macaws-regions-unexplored.pw.toml"
+hash = "2176750ae2954b8573df8dad94ee04b6db1c9b277698f5aafd54dc47d3e9775f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "843012f91d98ac70d007b80049fd97877830e12b833455d073c4fd9f303a0a9b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "f6bb8ac00f4a948c9d3d4cfbc880c545a709300336fcaf1bd05958eeaba96fba"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "effcd8bd43635ddf335b16be75fd58b7b374c1494c422f80bf394a17dfa4c592"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "2a84df34c2944add680377997c2d36cb5d032588cb9dac82c0594c68070d90f5"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "bf1b5b2511315fbd2b362067b8208d23bfe49ab19bd3f7a81fe73518a30aff05"
+metafile = true
+
+[[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "f167bab8df122f84e40b82f7ceee672a6cdb42baa5ca7cfc6a0e6fd33905e07e"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "fbb54c85224639ece0382a709a8de65ca6b3f57936739e51ae64c1f1ce1f7b8e"
+metafile = true
+
+[[files]]
+file = "mods/mega.pw.toml"
+hash = "6bcc064232db7a1669456cf262f4b18f5de0980652f05855f9ace2ddf57ced55"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "35b87423cd9cce4e70a3c51ca4d305bbe70577e2c5820a93494e020438b2264e"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "bc8bbd029e5848a0d20c64bb4eff45254c78aa595a0ee37c74d396d53365d50b"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "922fe347c8aa023f034e05338da31d2bf3659cb422beb9bdd07c52bdba9e8282"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "34cd12c811bd938887d15d8e3a9316eed21100bb002e0ebfd5df6a7e342c54c6"
+metafile = true
+
+[[files]]
+file = "mods/mekanismmoremachine.pw.toml"
+hash = "72c36d044adb25dd2ed46fc91553288ef2987a30ec9f2927f9426b14436ea06d"
+metafile = true
+
+[[files]]
+file = "mods/mekanisticrouters.pw.toml"
+hash = "6bc2272de4bd15fc1247c19ff8a2c43405e057005e92cbae4288a25b31977c26"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "a3370f9cf4f3e0d3f003579ac3c980ac690ebd6dcc9d6478d10d8cef3435d0ed"
+metafile = true
+
+[[files]]
+file = "mods/memorysettings.pw.toml"
+hash = "0f82c4608a24a836162bd2ae120a3f0ff058350d1eceb0ee68416afa13344725"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "1ff3355a7ac8ac743701ace09409453308e3ef86d5db4474e611dca4f1c7efbf"
+metafile = true
+
+[[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "c30a3a1476f3878f33b249d672aed808e99fac8742d93023dea226265457dd97"
+metafile = true
+
+[[files]]
+file = "mods/mifa.pw.toml"
+hash = "b221d3c4a21467bce247a0b7efd006a24dbf9c1cc33e261f1f358a8e13080e9a"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "4aba31600a25f2ed003e81aaaf04cb4e9a1e651b57e82985a2044ac08518de78"
+metafile = true
+
+[[files]]
+file = "mods/mininggadgets.pw.toml"
+hash = "1feab92443d01ce34ad83bc49ae18254bf6eedf5d6912aab80a3ecebd8472dac"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "ecc59310268e5f5b1ccfd943ca8c5c527755fc2dd186ac79e6397118eced7fe3"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "c4e405db641b0df3eae51b49fcc4c52bf3be7882d01f025e695192a74f4555b6"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "1ab0406e317c2c076bc817064967316067267bec29e9b12072ecb491705ddeaa"
+metafile = true
+
+[[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "f59a60ddcc8a351aeb6d55600ba91c70bc5ce0c5ec0423566dd7644d1856284a"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "1764bbe84d29d54c2b54a324a6df950834b454b5914fcbe9f08ba0883f6cd930"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a5efada8ef01c1b3ca22be9820055416560dcfe2bec066a31e3f5d005447ca0f"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "d3207df2754a7f0bc94e7c8ec74b1c81908ab5c24fa73c15421c01a1758da3ca"
+metafile = true
+
+[[files]]
+file = "mods/modular-force-field-systems.pw.toml"
+hash = "6c63c68bfae787a6918ebf135b39a9afb634e62a9bd22b1b4bc3605ff30e9df7"
+metafile = true
+
+[[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "f5bfe1a2514e3b001e98d0ce5d477cea04ae4d17dec577cde95b9c2416807da8"
+metafile = true
+
+[[files]]
+file = "mods/monolib.pw.toml"
+hash = "dac662db02c1baa7a6651634c0bef0cc06d44240f0013a55c7e390fb70666493"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "bf53ba9c240ccd001249af121433214264c5054951310a800005605b5bf35bc9"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "fdc07850417afe622756de6cbbac75445595895fde2ce56bdec1f18e06b0a672"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "9670a2d0841b7ccaef3bb6250242898f11ef00453c7c9eb2663bdaccc9cfcd3e"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "78baec05267991521c1a1da5b749e856f41050ef463da29ada55669fb64bc96b"
+metafile = true
+
+[[files]]
+file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
+hash = "177a15e7d129cb4c24406c71ad149ab1c27179e5fc806acd6f383b39a98c771d"
+metafile = true
+
+[[files]]
+file = "mods/more-red.pw.toml"
+hash = "a2153bf6ebb3be0db7fe656b3da11ad79fc3b21ff4d997ec6a919325c5fb2047"
+metafile = true
+
+[[files]]
+file = "mods/moredragoneggs.pw.toml"
+hash = "53caceffde44f86547ab402cbd1c2b6cc530b9483db46d3748be1d16c1e08301"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6609228466b5656d32754d348bb2cee5e652afd4a6e1f00c3045c8cd83f741ec"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "b3cabd54decb6a0cabfcf7aa44a718a2a8122c3c76b4a34f4845734c129a70ea"
+metafile = true
+
+[[files]]
+file = "mods/multipiston.pw.toml"
+hash = "cb02f1fd573dd9e7981a343af1d205737a0e4510dbc5e9521b787235d9bc5415"
+metafile = true
+
+[[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "639177137a2fa465808443da680c3d4608aea167f963e86201c3b8a36f21a13b"
+metafile = true
+
+[[files]]
+file = "mods/mystcraft-reborn.pw.toml"
+hash = "7d04ec1d8ceec25c20f8c2b1108f163b69fade404d76a0114bbdce7152800548"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "9663d2c7b4a003c164650b95cbf08b304832e29ec25a2bac74d0233b48d3ab09"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "befca681be85e2d6ff7d41df23d4008ea41fc661701f2c62981c7f2b21e77a76"
+metafile = true
+
+[[files]]
+file = "mods/mystical-customization.pw.toml"
+hash = "0a85cfe3aa4665470e0d7e647c54a1f94b9a78f4d54e71ab1df1cba972f72cba"
+metafile = true
+
+[[files]]
+file = "mods/natures-aura.pw.toml"
+hash = "c9d4cd9b0eac5bcd36746e3a561d798097f7c5ca46430739e434f923d1adadb0"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "acea5d285664adb971a26d28c601b47a70ad8e1e565911b125209ee3ba465d25"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "04693b164eea737bbfc323e9d68873c239b2c46ddba913e97583c7b17bda232d"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "071e7ba7e3cb849f91a6c9c6e557781edbfa164dea26e548e423ee9827db6f70"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "31ef496bb149d66912b69f6511f89a644b740252cc6015ef9cf31b4b34535eac"
+metafile = true
+
+[[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "bf1493c5490d460842da0c255c1d09f326505c4e4c9ae6787e8c86f9a3a84b53"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "d36c95b35a3e4b9db683f9d1c9f629d8aae37eb415b3e9bb48704edc9191f191"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "ecf1dc9c756a0a318a61946686bbdf36452877acdd28910fef3ab35208319c15"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "f3f2d8209345b79c5e8c9277bf05ca5f2b5a5177d65fd6ce527b55c54845274d"
+metafile = true
+
+[[files]]
+file = "mods/occultism-kubejs.pw.toml"
+hash = "46ff79e1aee279b5422584165c477a84fb4550000b32f8fb947418c4cde6ba6b"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "6e3e028f9cd2f07d2478d382418217790973d7fb228fdaab9d436b212cc0cb6a"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "5090452d16396544280bf83b841b2439da3b93bc47aaa6c83ff537e05c7a485b"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "750f899b9c9f8ddb0094d75d7f77649c8454eed2f5e9321417e2bf77525773eb"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "9249383334df1f759471a04cf6bb180b394ee3f2c681f68b0867e07e91405037"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "19083ca1971ad1a6efc27b4fb56a128e0ab7cb1269671e06ce214a1e124f2835"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "1c178acb50dc41b682467f6b79a622dbb3816eb16ee863c1be0032651698ebfd"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "65f129e8009e893b225f8eed14da2918887085e7709a73f384f6088717623b55"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "0ab700599181d56c49ff7d309b66bfd66ceffd762abfe2b34e92cceb675cc6e2"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "20bb87b15ebfb13fd551f080a74ed9876174318f44c9c9bab6f8b36f229a8c4f"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "086b6ef96084b7b2d19d1203af93e6d1806b48a7c4dc6fa1e473153c4950b2b4"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "0465905d7d11f4970aa31501aa60f58bfefd023d64f1eabc0798dab82652f3b8"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b14e76b7e847e424a0a91944028567056ba6cc564387b6fc04dfbf08c5f2b2ea"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "2b88b8537fcd8c967bd4df09ac0b155c329df71f20672d72ebccc0fed457fc53"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "1f6f03a7fe1f5c4c21117ff137b1ae5ec8778b42deb4d0b6390c4481f99c41bf"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "46fc70e8627cd3cd1482e45fc3ac64061c2438d9ffe1aad85b7ab046abe85631"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "6d0a8e3e71ef611f2ba81379322244f572f31e65e75323f4f89a1217a01e7761"
+metafile = true
+
+[[files]]
+file = "mods/ponder.pw.toml"
+hash = "0a1b435d606bbe702f215e44da7ac19810f1eda81f8fbc264164b0f5a94ae4e2"
+metafile = true
+
+[[files]]
+file = "mods/potentials.pw.toml"
+hash = "eb391711372e4ca1fda4c063235be002565770b73e832379993c998168b693a5"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "4090a4ed48efa0a1eab057eb82f0aa87829725cb8b88b510123ca26f8ab9c4ae"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "49c6b5ef6336a552987ce29ba9dfbdafff821fdd401d59995695bd86712563bd"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "2c757eeb94a5a391783fad9d510303c8690d52ccc4b711b9fccf0dbf842c2388"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "63cd6fc37001668de55eeccd8efb86f91b4e05a737f3044acc2151413d91ed95"
+metafile = true
+
+[[files]]
+file = "mods/productivebees.pw.toml"
+hash = "638a8c05eb843e770e0276f1048c13a51046759985fdcda7271454b46f6976e9"
+metafile = true
+
+[[files]]
+file = "mods/productivefarming.pw.toml"
+hash = "d1a3377411ef2ff508cd87f48ea5081c0eaa54e63a4b9597f3b5c98bc53285f2"
+metafile = true
+
+[[files]]
+file = "mods/productivemetalworks.pw.toml"
+hash = "fdb5d83147c7313f124bb65731ffa769892bf3ffe97362475023fbecc90a96ca"
+metafile = true
+
+[[files]]
+file = "mods/productivetrees.pw.toml"
+hash = "0fa2e3afe5ab86c90da50d78f914f82ec0fc1dbeb71605aaab087c8f3e857dff"
+metafile = true
+
+[[files]]
+file = "mods/projecte.pw.toml"
+hash = "0088912410c98c36722dfed88c95655ee34eb1ffa98abb399a07ea4eefda32f3"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "9dc788f45f4d4345de7783f70d4b5944f5fdff200f3d8d9c54388ad0782844e0"
+metafile = true
+
+[[files]]
+file = "mods/pylons.pw.toml"
+hash = "6d61821796ead341aab5798324a4528ad9851890775e196f4e39367d879b743d"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "7014410286427f3be776a3a186bf3ac50831de39fe7d0524a224675fa4909d8e"
+metafile = true
+
+[[files]]
+file = "mods/rainboows.pw.toml"
+hash = "af5cc44e2771ea1a87486789138703807a835515bb76fafe157a42811ec8d578"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "45111a03680b43b5910f1cf559d6b274b512e36353c646b40d7f9225a7a27296"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "961f4e2ee2c97872e41f530933b11cb81808983dd39b97e02808d5e2301426a5"
+metafile = true
+
+[[files]]
+file = "mods/redstonepen.pw.toml"
+hash = "ea519436abfca17c36d9c10444acffda115328616b4f73e90f53be32fee9f241"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "3fcf52e9f33df48d3f8403cf167d5246d45768475ed88ef47d1ba260f9c16305"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-jei-integration.pw.toml"
+hash = "4f0363a6de3f54634fbbcb814aa1df9da86b8c69dd50f123680c362d31190073"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "334702bc4154006fdc2cfb93a53e1c59c7d9fd37aff3455b9f4d04bfd2989c51"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "e1b96602c062dd159e1f3ffcb12add576fd7855d91eccdeaf599d45c1fbbd462"
+metafile = true
+
+[[files]]
+file = "mods/refurbished_furniture.pw.toml"
+hash = "80744913f4442cb1bb5e9b6f4968f04e18f1d1fba874e710bf218e4019b3292e"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "80f1c6a3e3288ecf889c18f84dbc10b9c788bf45a9919be63a83a58098924a3a"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "53797ec27186af19c341f3e3916c5f29aa82730199ed38185572f1adaace41ff"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-artifacts.pw.toml"
+hash = "52bf95da85e8f5b7630430d6f6ed1f65971fb95ae5f416cfb25af227999d4fd4"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4b4ce7077de8219fc46b1b08d698b1f615221adce2ab7438fa5d0c56464da4fd"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "1208b269a1879cff9922eb0fd38f20b2a242833f158adeb4b0cfbd4f556aa1af"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "099ed284018965d057ca195726e3a5cbb19dd5a6d3e67a717151225df7f641b7"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "070b789febb90a094287b33f5b8a285c9ae98c57b72a8aaef7bc764a7b1d4929"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "cbc733731dfd467bf1eef016ac9e9ec6ad72e5d2bcf782e096336b9bd48ad85b"
+metafile = true
+
+[[files]]
+file = "mods/rpl.pw.toml"
+hash = "0e046b5003d18600bb090012d0c196b04c23445bad6509df6587899321479133"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "968fcdc5c2fe0b613caa2ea10ba5e96317f2493a80dda68c8827121bf84678b3"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "d5a0a364ea3cbe96985877edc524104a1e3d2cd185b51cedbef8346a22f8785e"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "b146abda46d7d967c684c4a4feb71be7ccfb2d1c75800a5fc212aa75c768cebe"
+metafile = true
+
+[[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "46706004e8c590814e3ad6a90cc3a0edc86612702fa5c8e7b06a1ebd64a03ca4"
+metafile = true
+
+[[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "ffb1879cd8beb1229a3a631b1ac3bb3c5794d561df0eee65c24057e634466faa"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "61fd9739ec6f463e770075414933d7ffb41299b9e42de6886b06bb93c8a9432c"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems.pw.toml"
+hash = "466590206a9258c81d60aad1c6fc1e5cf94b5eb36fa4ebea356f0c82689f26a0"
+metafile = true
+
+[[files]]
+file = "mods/sky-aesthetics.pw.toml"
+hash = "3c481364aa017ae20313d6ee3010c9ae1c0cae3d389e282f085ed449f71aeb36"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "f35b3257eef472646761ee4259caade1b9dc7f742464d766589fa4224929cf7d"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "1d154eca40add93924aee44c16cb46963b89a04de62ec6ac041d455453066ba7"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "2486129721b1dc05c500776a56d3100c7eb1de686bf1ced7bda811745c080af0"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "29fbbc64b3df8a69dfe26c9a59679c46a2118c79036184d3b004105b24433f54"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "df7e52a60c9c9a0e889ff0003783aed1fdaac5fac4a240409f41167eaeae4c9e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "409042ca05681779034b3ba4bdc8125695ff77e0f33bf016aaf701069889da06"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "920c06c9eb46417768169d50abdd2f878b57214011e6c411fe9f2622a94b01d2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "6e657ac16ccdd6e7df79d94d2584260e75cfd14cea5f718dd97ff567ad11abc9"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "60f4274389eb76e4853228d3c11b1573f21ff7bda74f440ef72b542fe62472d0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "9c70b063ea5e24a21662434329a85eaaf6bc5b9d7b215c01aa1b84375575db2d"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "730ee411c3caa6e4439ffede5bacdb1798d25edf7b2403c9a874fbbf3d985cc7"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "1d6db9dcb79dfaa5f69ebce3d91d093ecd9b04a6d7c84515956c3672d38aa1a4"
+metafile = true
+
+[[files]]
+file = "mods/sparkweave.pw.toml"
+hash = "e1fc03bd8ba49d926c6359bc14742bc0584e5cc067dac0aa0cb0693e93fa8c81"
+metafile = true
+
+[[files]]
+file = "mods/spectral-decorations.pw.toml"
+hash = "4669d24d2e2e9ae8e2a7f0040dfd136c402196e1e999a7f31d1b64ec3f2ed532"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "ce6acf365395ea7017c688bb05409543d436a3bc025d3828360265b452abe7fd"
+metafile = true
+
+[[files]]
+file = "mods/spectrumjei.pw.toml"
+hash = "5b80055f6be41dedb58750993ae8f90fbd4696c30e33a217dd0655ed2f360e81"
+metafile = true
+
+[[files]]
+file = "mods/spiffyhud.pw.toml"
+hash = "a2f4877655ab7c1ede3a190fcd9b876476deea910ce7e3176871c6f689b7a0ac"
+metafile = true
+
+[[files]]
+file = "mods/stellaris.pw.toml"
+hash = "2b4d7cdae63ab73e0b253c7385803377d3c91d6e667fd62b8b384a474b228af5"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "b86b7160c3ac339666d5a7a497a4e4733989f3c3565182a8aca8d257eacf3dbc"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "c90f783d1301c8698c83462ead913d15d70f8fa2664086fc1bd70fb0a8f38564"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "e209ac3722dc482d0eb25ba67bda7be35d5e6074223b4d6ece9d2539b2cb37a0"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "2db1d0fd7f801ac0e7c819d08e913f6540840b3853449804cd8cfc4e1f1d41a0"
+metafile = true
+
+[[files]]
+file = "mods/super-factory-manager.pw.toml"
+hash = "c9140cd5efcbe5b20d9d9f374d1199047752f06d6ffddb3be2b4da0643124d82"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1139722ac9f39419edda8e0ed887f1e6de53d15c114a4a7358fa444a6ed90edf"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "4ad03d79f2a0dcc24c570b3001f94f17bb8f00f5fc8c8eebd0688aeef4c1176e"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "35cbd13b2fdcb9447f875cedb7c75b7a028ed9479367f8607b9683fbc73ce355"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "a74ddeedaef278928fbb43bb2475157520208a18ad41f3d558fc4a6ae88f3547"
+metafile = true
+
+[[files]]
+file = "mods/tesseract-api.pw.toml"
+hash = "3b327f0a541de6106fbdcc194c8184e8869bb1feb4e5d9ccb06c632e232745ad"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "1ec1a795d8b442bf5fecdafdf6af5f1f54542b7aafb1032f76be862ee0a00607"
+metafile = true
+
+[[files]]
+file = "mods/the-roads-more-travelled.pw.toml"
+hash = "16f71321440d13e7d3f9ccb457a7c603099fccd620ec03b597fc658db778c152"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "897a05ad8413f09642ef16c48eb7cffff4598aac33f5e4ce982e544bf34a691d"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "da3825a0cf8f43c8f1664ed781f7c0a4818597e8abfbf819a98135205ff4a8fe"
+metafile = true
+
+[[files]]
+file = "mods/theurgy-kubejs.pw.toml"
+hash = "8f857269a18197f81452ada45c5ca0cdf5c5f49453efc260c86e705f8f7eb6d6"
+metafile = true
+
+[[files]]
+file = "mods/theurgy.pw.toml"
+hash = "40985e22f92c3d6e2738ec2d05745aef813fd4bd94b88431aed228ee745c9fb0"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "090b6e2c1f95936ea78fc9db0573c0e21eae15ebd26c8ac417efec41bb493f84"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "2555b25768d7fd73fd77cb63c7894b89233b88a3617a71eb697d8fd23dd61b2c"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "c4b27908a2c6d5a586349992916e1c50da6bb3e2b04aafeb871c520039a9f71a"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "40cc0e9298d734c48256572479c3b20c871f6cad022fd4bc8482ffb66f3d3c19"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "39b4d38ed53b0e4035e76f8fa5f08623de4acb6e279d339da24b6f4dd267f8ac"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "3bfe424e99ba257ca35bc957434f96e0e64aa5438ff2cf5e94f573c620fd92a2"
+metafile = true
+
+[[files]]
+file = "mods/treetap.pw.toml"
+hash = "d27b2104d0d7c2797ed7b2245cba7c74f88d5a424dfd1f47d3a90562b6a7f5e4"
+metafile = true
+
+[[files]]
+file = "mods/tropicraft.pw.toml"
+hash = "092f287303f35867a795880726667aa5dac2002a5b5d1aa97f8925bd4a5159c6"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "a3993a7058569430d4792f54ecb7220bd573d80155fa35fe8897772c1d5ac8c6"
+metafile = true
+
+[[files]]
+file = "mods/universal-grid.pw.toml"
+hash = "d547412721145c97710d1713506eb5be8ed06a68decf2faaa802691225ed3b13"
+metafile = true
+
+[[files]]
+file = "mods/uranus.pw.toml"
+hash = "1d50b6db8342aab19a0232b9513440b2a9d1dc1adfed59961ee849ec10c9a82a"
+metafile = true
+
+[[files]]
+file = "mods/utilitarian.pw.toml"
+hash = "a7903c8bf104a26c5099004cedf4ee045662156ef56d0d8ce3c095ef7e9001b5"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "d8bc74c6b4b0b1c7557027cb41032a8e198a785e8dbb44ffad10046d7d92f21c"
+metafile = true
+
+[[files]]
+file = "mods/vampires-delight.pw.toml"
+hash = "8c78ae9c65e7c8c2beb1ce3ebbce2eb2288994271d93439d6405b31153aca847"
+metafile = true
+
+[[files]]
+file = "mods/vampires-need-umbrellas.pw.toml"
+hash = "07d2445f6b15f5d046efdb0b6127c9ddf34afa8eea40e3b26abe05e7403d4789"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-integrations.pw.toml"
+hash = "9215910b15cfe184c25279511fe0ecab0b40a04b57fa9ce20fa09469f149ca83"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-irons-spells-compatibility.pw.toml"
+hash = "196278ec306f3a09d06ca08e6dc3438d34cd74ca4b2b0aab8a39fda99d19e703"
+metafile = true
+
+[[files]]
+file = "mods/vampirism.pw.toml"
+hash = "c7106a8b5a190dccb436846f9c7b2a580ea732bc59256bf3b6c148f75ba80b81"
+metafile = true
+
+[[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "da4d873864dc1e1e64ffcf2b949e18b148eb4028ba82c4a30d71fc3662c633ed"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "bbe6c06169f6b7eacb0f3aa4ea24ba75021d4a1f76d5bb30e5e411c8fde81c6f"
+metafile = true
+
+[[files]]
+file = "mods/voltaic.pw.toml"
+hash = "d43ecaf2c460fc0971c5583de87554a0f75f478af7cf369ab72a7eb967918c68"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "3ac5bd71d78e46eca091fba31e07cd96e94b45c145973a062513f712b09898d1"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "34e1402019fd25e1ea9c11e6fcf5f1dfefe35558b61be8a34ac90a9c4e753ddf"
+metafile = true
+
+[[files]]
+file = "mods/werewolves.pw.toml"
+hash = "aad0e5c8b05cb41870c3f9c64a1919d3081e3cc1d2e8c9f218283400e7adff9c"
+metafile = true
+
+[[files]]
+file = "mods/wireless-chargers.pw.toml"
+hash = "c53ebc9acc7efcdb1466b9b7b4f81127063fc13684949ea9fea0a52cfead2173"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver-neoforge.pw.toml"
+hash = "74d696169d84d7893843d322cb8062415e2903603da43128ea665205ff27482f"
+metafile = true
+
+[[files]]
+file = "mods/wunderlib-neoforge.pw.toml"
+hash = "2327c95d7332226e1d8c0372909367ee84c1ecedea9eacd84ddb8328a28d1350"
+metafile = true
+
+[[files]]
+file = "mods/xaero-train-map.pw.toml"
+hash = "8a74d2b8bb7ae742a27a48e546574664225612795217e5a3ecca72a5a0f70c47"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "41a75d5683dbfd48948d50fbb466f654ebffd636f24bf8c5cae84fb61358e0dd"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "52fcc15819c92655dd0c0a13c3fdb732904b270bfba431c4fb5a5b6e6b38a0bc"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "16e4066a245a3149196652b0dcd06f1c738ccee26d89cb397a19a34aa3ae8ca6"
+metafile = true
+
+[[files]]
+file = "mods/xtonesreworked.pw.toml"
+hash = "6bc323ad4bbf462343a332d76d364be6f7b13771e22a3a9f9e9c9feee3e06026"
+metafile = true
+
+[[files]]
+file = "mods/xycraft_core.pw.toml"
+hash = "78df63ec3d3ac04c563f5071afb889a6df84e97a7f43953a466958f1b1974809"
+metafile = true
+
+[[files]]
+file = "mods/xycraft_machines.pw.toml"
+hash = "c4679e65ad2e1075d39c8c800779ddd7baf9bc30555af382119051a50d66b49b"
+metafile = true
+
+[[files]]
+file = "mods/xycraft_override.pw.toml"
+hash = "5ea46351b127ee18bb8392ec04ab41001678b4fb9e955c7430273d343416133b"
+metafile = true
+
+[[files]]
+file = "mods/xycraft_world.pw.toml"
+hash = "3187e3567304ae09cbc04e12fd2e4e1a8fce893e89061e10bf916ac3e47414e1"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "4f2e8fe0442ef67bcbef42375b8dd2c98faccd9946320ca90ed28c193ac16f39"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d12bf11d29aa17a1a4b25a1a4090d725d6fcfa1e1e2182e486105562fb1d69eb"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "f22dca9aa282508920f9168f1ee94a0ffb47a4b0f8066bb836c7b0ccf7980c19"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "b86edb3d9e9638386397c8556640236045fc833b54baa6f5fc9a2281b1422232"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "e427c449be12fddfe14eb9fb2e2dc059eb0273b93b04600623c6d52786268f52"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "d08b0ef7ab220c40c429a3cb2554534f334e5680fca51ae615bb09614036c665"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "09b77095eb9b83dbde50c3d6cf1b0dbffdc5452d14357e7d725f91e42a6c8933"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "9210c57fe032d0993f9ada795511a0fca5040ff77a93b6f5139167e50f07e263"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "04035d379926df75a6576f31f57e99016f0b1b8f450ff88a53c9f9c358cbc2e4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "91dffba9cbec59fec7e61ee565090638706f033cce447307b85858c2b2ba90d1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "ed50a798165970c1817e1a953c59fb134909f90b51f59976af64c62ebde3e9b7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "db96e7184bf17e16bf1936eff4bf08ac99c41c7acf7514fe469edd42a0b7e24a"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "d98d445f66888916fabe21d679612b54420c1364f19c5d720fbc882769721d95"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "e48f7cf914d3f7ccef1c137768e8d6b2505d913bf23abc1bf060b37bc8ecfb0e"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "5d6906a8578a97891f87a5fd982a95e1ed41a21c8d77d43053576624822ca872"
+preserve = true
+
+[[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "0fb23766919c354cfb5c5348329e7bac823dfd58d1a9660fcbfc0ab1506dc233"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "1a3d3663c44dc21e227c39c42ea9b5e3c4f3b2e3b5272ed55b45da9e247a46d7"
+metafile = true
+
+[[files]]
+file = "user_jvm_args.txt"
+hash = "d3ea6c712a5c453613f529ddc28979e60349b87cd590e591cc9742c7d4c9bbf7"

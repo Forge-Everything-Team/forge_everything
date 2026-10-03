@@ -1,0 +1,13 @@
+name = "Female Gender Mod"
+filename = "Female-Gender-Mod-neoforge-1.21-3.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bcOsQHnC/versions/kKffHCGl/Female-Gender-Mod-neoforge-1.21-3.2.2.jar"
+hash-format = "sha1"
+hash = "f2e4027d0943c04700173a97c88aaebb1f1777ad"
+
+[update]
+[update.modrinth]
+mod-id = "bcOsQHnC"
+version = "kKffHCGl"

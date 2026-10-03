@@ -1,0 +1,13 @@
+name = "Pam's HarvestCraft 2 - Trees"
+filename = "pamhc2trees-NEOFORGE-1.21.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KDzWXxuG/versions/8AQrMyL9/pamhc2trees-NEOFORGE-1.21.1-1.0.4.jar"
+hash-format = "sha1"
+hash = "98ac1ede402d94efdc9e1d714591483e3c1e6025"
+
+[update]
+[update.modrinth]
+mod-id = "KDzWXxuG"
+version = "8AQrMyL9"
