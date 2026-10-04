@@ -70,7 +70,7 @@ param(
     [string]$ModrinthToken,
     [string]$PackVersion,
 
-    [string]$UserAgent = "ForgeEverything-licensing-audit/1.0 (+https://github.com/rexilyent/forge-everything)",
+    [string]$UserAgent = "ForgeEverything-licensing-audit/1.0 (+https://github.com/Forge-Everything-Team/forge_everything)",
     [int]$BatchSize = 100,
     [int]$ThrottleMs = 250
 )

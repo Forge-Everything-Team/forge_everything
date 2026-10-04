@@ -7,7 +7,6 @@ assets/*
 .cf-ratelimit.json
 /workspace
 /Diag Output
-/reports
 
 #Logs
 hash-resolution-report.csv
